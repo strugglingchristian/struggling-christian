@@ -1,0 +1,41 @@
+.emphasis {
+  font-style: italic;
+}
+
+.emphasis-strong {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: line-through;
+}
+
+.main-content {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.row-border {
+  border: 1px solid red;
+}
+
+.title {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.preview-container {
+  padding: 5px;
+}
+
+.subtitle {
+  color: #666;
+  font-size: larger;
+}
+
+.teaser {
+  color: #000;
+  margin-top: 10px;
+  text-align: justify;
+}
