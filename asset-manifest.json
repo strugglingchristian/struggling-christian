@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/struggling-christian/static/css/main.073c9b0a.css",
+    "main.js": "/struggling-christian/static/js/main.ccbfdb5d.js",
+    "static/js/787.0653198f.chunk.js": "/struggling-christian/static/js/787.0653198f.chunk.js",
+    "static/media/logo.svg": "/struggling-christian/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/struggling-christian/index.html",
+    "main.073c9b0a.css.map": "/struggling-christian/static/css/main.073c9b0a.css.map",
+    "main.ccbfdb5d.js.map": "/struggling-christian/static/js/main.ccbfdb5d.js.map",
+    "787.0653198f.chunk.js.map": "/struggling-christian/static/js/787.0653198f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ccbfdb5d.js"
+  ]
+}
