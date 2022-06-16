@@ -15,19 +15,13 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": [
-    "react",
-    "prettier"
-  ],
+  "plugins": ["react", "prettier"],
   "rules": {
     "react/react-in-jsx-scope": "off",
     "react/jsx-filename-extension": [
       1,
       {
-        "extensions": [
-          ".js",
-          ".jsx"
-        ]
+        "extensions": [".js", ".jsx"]
       }
     ],
     "react/jsx-one-expression-per-line": "off",
@@ -36,8 +30,7 @@
     "func-names": "warn",
     "no-return-assign": "warn",
     "no-cond-assign": "warn",
-    "quotes": [
-      "off"
-    ]
+    "quotes": ["off"],
+    "global-require": "off"
   }
 }

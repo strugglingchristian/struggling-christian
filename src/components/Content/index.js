@@ -1,4 +1,8 @@
 import { Container, Row, Col } from "react-bootstrap";
+import Button from "react-bootstrap/Button";
+import newsClipping1843 from "../../assets/images/1843-news-clipping.jpg";
+import milleriteChart from "../../assets/images/1844-millerite-chart-old.jpg";
+import egwPhoto from "../../assets/images/egw.jpg";
 import "./style.css";
 
 function Content() {
@@ -6,34 +10,132 @@ function Content() {
     <Container>
       <div className="main-content">
         <Container>
-          <Row>
-            <Col md={9} className="d-flex justify-content-start">
-              <Row>
-                <Col>
+          <Row className="pb-3">
+            <Col md={8} xs={12} className="d-flex justify-content-start">
+              <Container>
+                <Row className="pb-3">
                   <div className="preview-container">
-                    <div className="title">1844 Made Complicated</div>
-                    <div className="subtitle">
-                      Examining how 1844 could be the Second Coming, Cleansing
-                      of the Heavenly Sanctuary or a Nonevent
+                    <div className="preview-text">
+                      <div className="title">
+                        <a href="https://www.google.com">
+                          1844 Made Complicated (Part 1)
+                        </a>
+                      </div>
+                      <div className="subtitle">
+                        <a href="https://www.google.com">
+                          Examining how 1844 could be the Second Coming,
+                          Cleansing of the Heavenly Sanctuary or a Nonevent
+                        </a>
+                      </div>
+                      <div className="teaser">
+                        <a href="https://www.google.com">
+                          In Douglas Adams&apos; popular sci-fi novel titled The
+                          Hitchhiker&apos;s Guide to the Galaxy, a group of
+                          highly intelligent beings developed a supercomputer
+                          named Deep Thought, in order to determine the Answer
+                          to the Ultimate Question of Life, the Universe and
+                          Everything. In the story, it takes Deep Thought 7 ½
+                          million years ...
+                        </a>
+                      </div>
+                      <div className="read-more">
+                        <Button variant="outline-dark" href="#">
+                          Read more
+                        </Button>
+                      </div>
                     </div>
-                    <div className="teaser">
-                      In Douglas Adams&apos; popular sci-fi novel titled The
-                      Hitchhiker&apos;s Guide to the Galaxy, a group of highly
-                      intelligent beings developed a supercomputer named Deep
-                      Thought, in order to determine the Answer to the Ultimate
-                      Question of Life, the Universe and Everything. In the
-                      story, it takes Deep Thought 7 ½ million years to compute
-                      the answer which just happens to be a seemingly random
-                      number, 42. If only the answer to all the questions about
-                      life is this simple and can be calculated by a computer,
-                      it would certainly solve a lot of our problems.
-                    </div>
+                    <a href="https://www.google.com">
+                      <div className="preview-image">
+                        <img src={newsClipping1843} alt="1843 news" />
+                      </div>
+                    </a>
                   </div>
-                </Col>
-              </Row>
+                </Row>
+                <Row className="pb-3">
+                  <div className="preview-container">
+                    <div className="preview-text">
+                      <div className="title">
+                        <a href="https://www.google.com">
+                          1844 Made Complicated (Part 2)
+                        </a>
+                      </div>
+                      <div className="subtitle">
+                        <a href="https://www.google.com">
+                          Continued from Part 1
+                        </a>
+                      </div>
+                      <div className="teaser">
+                        <a href="https://www.google.com">
+                          In Douglas Adams&apos; popular sci-fi novel titled The
+                          Hitchhiker&apos;s Guide to the Galaxy, a group of
+                          highly intelligent beings developed a supercomputer
+                          named Deep Thought, in order to determine the Answer
+                          to the Ultimate Question of Life, the Universe and
+                          Everything. In the story, it takes Deep Thought 7 ½
+                          million years ...
+                        </a>
+                      </div>
+                      <div className="read-more">
+                        <Button variant="outline-dark" href="#">
+                          Read more
+                        </Button>
+                      </div>
+                    </div>
+                    <a href="https://www.google.com">
+                      <div className="preview-image">
+                        <img src={milleriteChart} alt="1843 news" />
+                      </div>
+                    </a>
+                  </div>
+                </Row>
+                <Row className="pb-3">
+                  <div className="preview-container">
+                    <div className="preview-text">
+                      <div className="title">
+                        <a href="https://www.google.com">
+                          Is Ellen G. White A True Prophet?
+                        </a>
+                      </div>
+                      <div className="subtitle">
+                        <a href="https://www.google.com">
+                          Lunatic, Liar or Lord&apos;s Prophet
+                        </a>
+                      </div>
+                      <div className="teaser">
+                        <a href="https://www.google.com">
+                          Ellen G. White is believed by majority of Seventh-day
+                          Adventists as a prophet. A modern-day Elijah or John
+                          the Baptist who heralded the First Advent of the
+                          Messiah...
+                        </a>
+                      </div>
+                      <div className="read-more">
+                        <Button variant="outline-dark" href="#">
+                          Read more
+                        </Button>
+                      </div>
+                    </div>
+                    <a href="https://www.google.com">
+                      <div className="preview-image">
+                        <img src={egwPhoto} alt="EGW" />
+                      </div>
+                    </a>
+                  </div>
+                </Row>
+              </Container>
             </Col>
-            <Col md={3} className="d-flex justify-content-start">
-              left column
+            <Col md={4} xs={12} className="d-flex justify-content-start">
+              <Container>
+                <Row>
+                  <p>LINK</p>
+                </Row>
+                <Row>
+                  <p>LINK</p>
+                </Row>
+                <Row>
+                  <p>LINK</p>
+                </Row>
+              </Container>
             </Col>
           </Row>
         </Container>
