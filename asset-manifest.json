@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/struggling-christian/static/css/main.8d67a0cc.css",
-    "main.js": "/struggling-christian/static/js/main.c00b1ad7.js",
+    "main.css": "/struggling-christian/static/css/main.4a7576ca.css",
+    "main.js": "/struggling-christian/static/js/main.b16122bc.js",
     "static/js/787.0653198f.chunk.js": "/struggling-christian/static/js/787.0653198f.chunk.js",
+    "static/media/1843-news-clipping.jpg": "/struggling-christian/static/media/1843-news-clipping.b8a1dd02683a6b8723a0.jpg",
+    "static/media/1844-millerite-chart-old.jpg": "/struggling-christian/static/media/1844-millerite-chart-old.a3e4b85607774b2f3a8a.jpg",
     "index.html": "/struggling-christian/index.html",
-    "main.8d67a0cc.css.map": "/struggling-christian/static/css/main.8d67a0cc.css.map",
-    "main.c00b1ad7.js.map": "/struggling-christian/static/js/main.c00b1ad7.js.map",
+    "main.4a7576ca.css.map": "/struggling-christian/static/css/main.4a7576ca.css.map",
+    "main.b16122bc.js.map": "/struggling-christian/static/js/main.b16122bc.js.map",
     "787.0653198f.chunk.js.map": "/struggling-christian/static/js/787.0653198f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d67a0cc.css",
-    "static/js/main.c00b1ad7.js"
+    "static/css/main.4a7576ca.css",
+    "static/js/main.b16122bc.js"
   ]
 }
