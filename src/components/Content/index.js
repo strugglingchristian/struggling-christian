@@ -11,7 +11,7 @@ function Content() {
       <div className="main-content">
         <Container>
           <Row className="pb-3">
-            <Col md={8} xs={12} className="d-flex justify-content-start">
+            <Col md={9} xs={12} className="d-flex justify-content-start">
               <Container>
                 <Row className="pb-3">
                   <div className="preview-container">
@@ -124,16 +124,15 @@ function Content() {
                 </Row>
               </Container>
             </Col>
-            <Col md={4} xs={12} className="d-flex justify-content-start">
+            <Col md={3} xs={12} className="d-flex justify-content-start">
               <Container>
-                <Row>
-                  <p>LINK</p>
-                </Row>
-                <Row>
-                  <p>LINK</p>
-                </Row>
-                <Row>
-                  <p>LINK</p>
+                <Row className="sidebar-row-group">
+                  <div className="sidebar-header">CULTIC DOCTRINES</div>
+                  <div className="sidebar-title">Jehovah&apos; Witnesses</div>
+                  <div className="sidebar-title">Seventh-day Adventists</div>
+                  <div className="sidebar-title">Latter-day Saints</div>
+                  <div className="sidebar-title">Iglesia Ni Cristo</div>
+                  <div className="sidebar-title">Kingdom Of Jesus Christ</div>
                 </Row>
               </Container>
             </Col>
