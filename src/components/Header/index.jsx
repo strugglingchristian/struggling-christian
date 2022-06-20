@@ -1,4 +1,5 @@
 import { Container, Row, Col } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import "./style.css";
 
 function Header() {
@@ -15,6 +16,22 @@ function Header() {
               <Col className="d-flex">
                 Discerning truth from falsehood, one doctrine at a time
               </Col>
+            </Row>
+            <Row>
+              <div className="nav-links-container">
+                <Link className="nav-link" to="/">
+                  Home
+                </Link>
+                <Link className="nav-link" to="/cultic-doctrines">
+                  Cultic Doctrines
+                </Link>
+                <Link className="nav-link" to="/articles">
+                  Articles
+                </Link>
+                <Link className="nav-link" to="/about">
+                  About
+                </Link>
+              </div>
             </Row>
           </Row>
         </Col>

@@ -21,3 +21,14 @@
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: larger;
 }
+
+.menu-row {
+  border: 1px solid red;
+}
+
+.nav-links-container {
+  height: 55px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
