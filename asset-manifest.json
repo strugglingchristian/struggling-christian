@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e6b6d62.css",
-    "main.js": "/static/js/main.d3576622.js",
+    "main.css": "/static/css/main.e19af5ca.css",
+    "main.js": "/static/js/main.84e28a78.js",
     "static/js/787.5f5ee9b4.chunk.js": "/static/js/787.5f5ee9b4.chunk.js",
     "static/media/1843-news-clipping.jpg": "/static/media/1843-news-clipping.b8a1dd02683a6b8723a0.jpg",
     "static/media/1844-millerite-chart-old.jpg": "/static/media/1844-millerite-chart-old.a3e4b85607774b2f3a8a.jpg",
     "index.html": "/index.html",
-    "main.4e6b6d62.css.map": "/static/css/main.4e6b6d62.css.map",
-    "main.d3576622.js.map": "/static/js/main.d3576622.js.map",
+    "main.e19af5ca.css.map": "/static/css/main.e19af5ca.css.map",
+    "main.84e28a78.js.map": "/static/js/main.84e28a78.js.map",
     "787.5f5ee9b4.chunk.js.map": "/static/js/787.5f5ee9b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e6b6d62.css",
-    "static/js/main.d3576622.js"
+    "static/css/main.e19af5ca.css",
+    "static/js/main.84e28a78.js"
   ]
 }
