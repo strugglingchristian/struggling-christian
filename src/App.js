@@ -1,15 +1,18 @@
-import { Container } from "react-bootstrap";
-import Header from "./components/Header";
-import Content from "./components/Content";
+import { Routes, Route } from "react-router-dom";
+import Layout from "./components/layout";
+import Home from "./pages/home";
+import CulticDoctrines from "./pages/cultic-doctrines/culticDoctrines";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <Container fluid>
-        <Header />
-        <Content />
-      </Container>
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
+          <Route path="/cultic-doctrines" element={<CulticDoctrines />} />
+        </Route>
+      </Routes>
     </div>
   );
 }
