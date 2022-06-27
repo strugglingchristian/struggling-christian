@@ -25,7 +25,7 @@ function Header() {
                   <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">
                       <Nav.Link href="/">Home</Nav.Link>
-                      <Nav.Link href="/cultic-doctrines">
+                      <Nav.Link href="/dubious-doctrines">
                         Dubious Doctrines
                       </Nav.Link>
                       <Nav.Link href="/articles">Articles</Nav.Link>

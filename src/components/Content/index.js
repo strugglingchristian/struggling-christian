@@ -124,10 +124,14 @@ function Content() {
                 </Row>
               </Container>
             </Col>
-            <Col md={3} xs={12} className="d-flex justify-content-start">
+            <Col
+              md={3}
+              xs={12}
+              className="d-flex justify-content-start row-border"
+            >
               <Container>
                 <Row className="sidebar-row-group">
-                  <div className="sidebar-header">CULTIC DOCTRINES</div>
+                  <div className="sidebar-header">DUBIOUS DOCTRINES</div>
                   <div className="sidebar-title">Jehovah&apos; Witnesses</div>
                   <div className="sidebar-title">Seventh-day Adventists</div>
                   <div className="sidebar-title">Latter-day Saints</div>
