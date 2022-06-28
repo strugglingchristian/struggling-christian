@@ -1,23 +1,20 @@
 @media only screen and (min-width: 320px) {
   .featured-content {
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 30px;
   }
 
   .title {
-    font-size: xx-large;
+    font-size: 20px;
     font-weight: bold;
-  }
-
-  .preview-container {
-    padding: 5px;
-    display: flex;
+    text-align: center;
   }
 
   .subtitle {
     color: #666;
-    font-size: 14px;
+    font-size: 12px;
     font-style: italic;
+    text-align: center;
   }
 
   .teaser {
@@ -27,66 +24,7 @@
   }
 
   .preview-text {
-    flex: 4;
-    padding-right: 10px;
-  }
-
-  .preview-image {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .preview-image img {
-    width: 200px;
-    height: 200px;
-  }
-
-  .read-more {
-    display: flex;
-    justify-content: flex-end;
-    margin-top: 10px;
-  }
-}
-
-@media only screen and (min-width: 480px) {
-}
-
-@media only screen and (min-width: 768px) {
-}
-
-@media only screen and (min-width: 992px) {
-  .featured-content {
-    margin-top: 30px;
-    margin-bottom: 30px;
-  }
-
-  .title {
-    font-size: xx-large;
-    font-weight: bold;
-  }
-
-  .preview-container {
-    padding: 5px;
-    display: flex;
-  }
-
-  .subtitle {
-    color: #666;
-    font-size: 14px;
-    font-style: italic;
-  }
-
-  .teaser {
-    color: #000;
-    margin-top: 10px;
-    text-align: justify;
-  }
-
-  .preview-text {
-    flex: 4;
-    padding: 0 10px;
+    padding: 10px 0;
   }
 
   .preview-image {
@@ -100,6 +38,74 @@
     width: 200px;
     height: 200px;
     border-radius: 10px;
+  }
+
+  .read-more {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  .title {
+    font-size: 26px;
+    text-align: center;
+  }
+
+  .subtitle {
+    font-size: 14px;
+    text-align: center;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .title {
+    text-align: left;
+  }
+
+  .subtitle {
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .featured-content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .title {
+    font-size: xx-large;
+    font-weight: bold;
+  }
+
+  .subtitle {
+    color: #666;
+    font-size: 15px;
+    font-style: italic;
+  }
+
+  .teaser {
+    color: #000;
+    margin-top: 10px;
+    text-align: justify;
+  }
+
+  .preview-text {
+    padding: 0 10px;
+  }
+
+  .preview-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .preview-image img {
+    width: 200px;
+    height: 200px;
   }
 
   .read-more {

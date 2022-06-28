@@ -14,16 +14,16 @@ function Layout() {
       <Row className="content-row">
         <Container fluid>
           <Row className="pb-3">
-            <Col md={2} xs={12} className="d-none d-lg-block">
+            <Col lg={2} xs={12} className="d-none d-lg-block">
               &nbsp;
             </Col>
-            <Col md={7} xs={12}>
+            <Col lg={7} xs={12}>
               <Outlet />
             </Col>
-            <Col md={2} xs={12}>
+            <Col lg={2} xs={12}>
               <Sidebar />
             </Col>
-            <Col md={1} xs={12} className="d-none d-lg-block">
+            <Col lg={1} xs={12} className="d-none d-lg-block">
               &nbsp;
             </Col>
           </Row>
