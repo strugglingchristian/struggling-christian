@@ -31,6 +31,7 @@
     font-size: 24px;
     font-weight: bold;
     letter-spacing: 2px;
+    padding-top: 20px;
   }
 
   .header-subtitle {
@@ -41,6 +42,28 @@
 }
 
 @media only screen and (min-width: 768px) {
+  .header {
+    height: 200px;
+    background-color: #262626;
+    color: #fff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  .header-title {
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding-top: 25px;
+  }
+
+  .header-subtitle {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: large;
+    color: #fff;
+  }
+}
+
+@media only screen and (min-width: 992px) {
   .header {
     height: 200px;
     background-color: #262626;

@@ -1,6 +1,7 @@
-import { Container, Row } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import { Outlet } from "react-router-dom";
 import Header from "../Header";
+import Sidebar from "../Sidebar";
 import Footer from "../Footer";
 import "./style.css";
 
@@ -11,7 +12,22 @@ function Layout() {
         <Header />
       </Row>
       <Row className="content-row">
-        <Outlet />
+        <Container fluid>
+          <Row className="pb-3">
+            <Col md={2} xs={12} className="d-none d-lg-block">
+              &nbsp;
+            </Col>
+            <Col md={7} xs={12}>
+              <Outlet />
+            </Col>
+            <Col md={2} xs={12}>
+              <Sidebar />
+            </Col>
+            <Col md={1} xs={12} className="d-none d-lg-block">
+              &nbsp;
+            </Col>
+          </Row>
+        </Container>
       </Row>
       <Row className="footer-row">
         <Footer />

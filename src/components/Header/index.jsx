@@ -5,10 +5,10 @@ function Header() {
   return (
     <Container>
       <Row className="header">
-        <Col sm={1} md={2}>
+        <Col sm={1} md={1} lg={2}>
           &nbsp;
         </Col>
-        <Col sm={9} md={8}>
+        <Col sm={9} md={8} lg={8}>
           <Row>
             <Row className="header-title">
               <Col className="d-flex">Struggling Christian</Col>
@@ -37,7 +37,7 @@ function Header() {
             </Row>
           </Row>
         </Col>
-        <Col sm={1} md={1}>
+        <Col sm={1} md={1} lg={2}>
           &nbsp;
         </Col>
       </Row>
