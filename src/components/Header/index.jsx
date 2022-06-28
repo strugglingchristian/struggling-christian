@@ -5,25 +5,27 @@ function Header() {
   return (
     <Container>
       <Row className="header">
-        <Col sm={1} md={1} lg={2}>
+        <Col lg={2} md={0} className="d-none d-md-block">
           &nbsp;
         </Col>
-        <Col sm={9} md={8} lg={8}>
+        <Col md={12} lg={8}>
           <Row>
-            <Row className="header-title">
-              <Col className="d-flex">Struggling Christian</Col>
-            </Row>
-            <Row className="header-subtitle">
-              <Col className="d-flex">
-                Discerning truth from falsehood, one doctrine at a time
-              </Col>
-            </Row>
-            <Row>
-              <Navbar collapseOnSelect expand="lg" variant="dark" bg="dark">
-                <Container fluid className="px-0">
+            <Col lg={8} md={6}>
+              <Row className="header-title">
+                <Col className="d-flex">Struggling Christian</Col>
+              </Row>
+              <Row className="header-subtitle">
+                <Col className="d-flex">
+                  Discerning truth from falsehood, one doctrine at a time
+                </Col>
+              </Row>
+            </Col>
+            <Col lg={4} md={6} className="d-flex justify-content-md-end">
+              <Navbar collapseOnSelect expand="md" variant="dark" bg="dark">
+                <Container>
                   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                   <Navbar.Collapse id="responsive-navbar-nav">
-                    <Nav className="me-auto">
+                    <Nav className="ml-auto">
                       <Nav.Link href="/">Home</Nav.Link>
                       <Nav.Link href="/dubious-doctrines">
                         Dubious Doctrines
@@ -34,10 +36,10 @@ function Header() {
                   </Navbar.Collapse>
                 </Container>
               </Navbar>
-            </Row>
+            </Col>
           </Row>
         </Col>
-        <Col sm={1} md={1} lg={2}>
+        <Col lg={2} md={0} className="d-none d-md-block">
           &nbsp;
         </Col>
       </Row>
