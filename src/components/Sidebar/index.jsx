@@ -2,7 +2,7 @@ import { Container, Row } from "react-bootstrap";
 
 import "./style.css";
 
-function UsefulLinks() {
+function BibleStudyResourcesSidebar() {
   return (
     <div className="sidebar">
       <div className="sidebar-header">BIBLE STUDY RESOURCES</div>
@@ -56,14 +56,71 @@ function DubiousDoctrinesSidebar() {
   );
 }
 
+function YoutubeChannelsSidebar() {
+  return (
+    <div className="sidebar">
+      <div className="sidebar-header">RECOMMEND CHANNELS</div>
+      <div className="sidebar-title">
+        <a
+          target="_blank"
+          href="https://www.youtube.com/channel/UCvlwjKB8N5FH4xamd9ezzVg"
+          rel="noreferrer"
+        >
+          Christian Scholars Forum
+        </a>
+      </div>
+      <div className="sidebar-title">
+        <a
+          target="_blank"
+          href="https://www.youtube.com/c/DrMichaelSHeiser"
+          rel="noreferrer"
+        >
+          Dr. Michael Heiser
+        </a>
+      </div>
+      <div className="sidebar-title">
+        <a
+          target="_blank"
+          href="https://www.youtube.com/watch?v=L-nhOwEwtrE&list=PLYFBLkHop2alFacrvkn2qtR3y1D2fQmad"
+          rel="noreferrer"
+        >
+          Dr. Bruce Gore
+        </a>
+      </div>
+      <div className="sidebar-title">
+        <a
+          target="_blank"
+          href="https://www.youtube.com/c/HouseformApologetics"
+          rel="noreferrer"
+        >
+          Houseform Apologetics
+        </a>
+      </div>
+      <div className="sidebar-title">
+        {" "}
+        <a
+          target="_blank"
+          href="https://www.youtube.com/c/NakedBible/videos"
+          rel="noreferrer"
+        >
+          Naked Bible
+        </a>
+      </div>
+    </div>
+  );
+}
+
 function Sidebar() {
   return (
     <Container>
       <Row className="sidebar-row-group">
-        <DubiousDoctrinesSidebar />
+        <BibleStudyResourcesSidebar />
       </Row>
       <Row className="sidebar-row-group">
-        <UsefulLinks />
+        <YoutubeChannelsSidebar />
+      </Row>
+      <Row className="sidebar-row-group">
+        <DubiousDoctrinesSidebar />
       </Row>
     </Container>
   );
