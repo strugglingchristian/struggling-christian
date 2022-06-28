@@ -1,0 +1,173 @@
+@media only screen and (min-width: 320px) {
+  .featured-content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .title {
+    font-size: xx-large;
+    font-weight: bold;
+  }
+
+  .preview-container {
+    padding: 5px;
+    display: flex;
+  }
+
+  .subtitle {
+    color: #666;
+    font-size: 14px;
+    font-style: italic;
+  }
+
+  .teaser {
+    color: #000;
+    margin-top: 10px;
+    text-align: justify;
+  }
+
+  .preview-text {
+    flex: 4;
+    padding-right: 10px;
+  }
+
+  .preview-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .preview-image img {
+    width: 200px;
+    height: 200px;
+  }
+
+  .read-more {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+}
+
+@media only screen and (min-width: 768px) {
+}
+
+@media only screen and (min-width: 992px) {
+  .featured-content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .title {
+    font-size: xx-large;
+    font-weight: bold;
+  }
+
+  .preview-container {
+    padding: 5px;
+    display: flex;
+  }
+
+  .subtitle {
+    color: #666;
+    font-size: 14px;
+    font-style: italic;
+  }
+
+  .teaser {
+    color: #000;
+    margin-top: 10px;
+    text-align: justify;
+  }
+
+  .preview-text {
+    flex: 4;
+    padding: 0 10px;
+  }
+
+  .preview-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .preview-image img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+  }
+
+  .read-more {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+  }
+}
+
+.emphasis {
+  font-style: italic;
+}
+
+.emphasis-strong {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: line-through;
+}
+
+.row-border {
+  border: 1px solid red;
+}
+
+.title > a {
+  outline: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.title > a:hover {
+  outline: none;
+  color: #4da64d;
+  transition: 0.3s;
+}
+
+.subtitle > a {
+  outline: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.subtitle > a:hover {
+  outline: none;
+  color: #999999;
+  transition: 0.3s;
+}
+
+.teaser > a {
+  outline: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.teaser > a:hover {
+  outline: none;
+  text-decoration: none;
+  color: #4da64d;
+  transition: 0.3s;
+}
+
+.preview-container > a {
+  opacity: 1;
+}
+
+.preview-container > a:hover {
+  opacity: 0.7;
+  transition: 0.3s;
+}
