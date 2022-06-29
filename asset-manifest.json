@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a9d7cb8.css",
-    "main.js": "/static/js/main.dba37338.js",
+    "main.css": "/static/css/main.9216b6f7.css",
+    "main.js": "/static/js/main.bc633e11.js",
     "static/js/787.5f5ee9b4.chunk.js": "/static/js/787.5f5ee9b4.chunk.js",
     "static/media/miller-chart-landscape.png": "/static/media/miller-chart-landscape.e8883553c7701f3e80e5.png",
     "static/media/1843-header-landscape.png": "/static/media/1843-header-landscape.a7499dedd5ec444fc14e.png",
@@ -9,12 +9,12 @@
     "static/media/1844-millerite-chart-old.jpg": "/static/media/1844-millerite-chart-old.a3e4b85607774b2f3a8a.jpg",
     "static/media/egw-landscape.png": "/static/media/egw-landscape.9c09110feeab9805a6f9.png",
     "index.html": "/index.html",
-    "main.5a9d7cb8.css.map": "/static/css/main.5a9d7cb8.css.map",
-    "main.dba37338.js.map": "/static/js/main.dba37338.js.map",
+    "main.9216b6f7.css.map": "/static/css/main.9216b6f7.css.map",
+    "main.bc633e11.js.map": "/static/js/main.bc633e11.js.map",
     "787.5f5ee9b4.chunk.js.map": "/static/js/787.5f5ee9b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a9d7cb8.css",
-    "static/js/main.dba37338.js"
+    "static/css/main.9216b6f7.css",
+    "static/js/main.bc633e11.js"
   ]
 }
