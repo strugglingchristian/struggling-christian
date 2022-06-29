@@ -1,8 +1,11 @@
 import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import milleriteChart from "../../assets/images/1844-millerite-chart-old.jpg";
+import milleriteChartLandscape from "../../assets/images/miller-chart-landscape.png";
 import egwPhoto from "../../assets/images/egw.jpg";
+import egwPhotoLandscape from "../../assets/images/egw-landscape.png";
 import newsClipping1843 from "../../assets/images/1843-news-clipping.jpg";
+import newsClipping1843Landscape from "../../assets/images/1843-header-landscape.png";
 import "./style.css";
 
 function FeaturedContent() {
@@ -16,7 +19,10 @@ function FeaturedContent() {
         >
           <div className="preview-container">
             <a href="https://www.google.com">
-              <div className="preview-image">
+              <div className="preview-image d-sm-block d-lg-none">
+                <img src={newsClipping1843Landscape} alt="1843 news" />
+              </div>
+              <div className="preview-image d-none d-lg-block">
                 <img src={newsClipping1843} alt="1843 news" />
               </div>
             </a>
@@ -61,8 +67,11 @@ function FeaturedContent() {
         >
           <div className="preview-container">
             <a href="https://www.google.com">
-              <div className="preview-image">
-                <img src={milleriteChart} alt="1843 news" />
+              <div className="preview-image d-sm-block d-lg-none">
+                <img src={milleriteChartLandscape} alt="Millerite Chart" />
+              </div>
+              <div className="preview-image d-none d-lg-block">
+                <img src={milleriteChart} alt="Millerite Chart" />
               </div>
             </a>
           </div>
@@ -103,8 +112,11 @@ function FeaturedContent() {
         >
           <div className="preview-container">
             <a href="https://www.google.com">
-              <div className="preview-image">
-                <img src={egwPhoto} alt="EGW" />
+              <div className="preview-image d-none d-lg-block">
+                <img src={egwPhoto} alt="Ellen G. White" />
+              </div>
+              <div className="preview-image d-sm-block d-lg-none">
+                <img src={egwPhotoLandscape} alt="Ellen G. White" />
               </div>
             </a>
           </div>
