@@ -1,5 +1,6 @@
 import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
+import { Link } from "react-router-dom";
 import milleriteChart from "../../assets/images/1844-millerite-chart-old.jpg";
 import milleriteChartLandscape from "../../assets/images/miller-chart-landscape.png";
 import egwPhoto from "../../assets/images/egw.jpg";
@@ -18,41 +19,44 @@ function FeaturedContent() {
           className="d-flex justify-content-center p-md-0 p-sm-5"
         >
           <div className="preview-container">
-            <a href="https://www.google.com">
+            <Link to="/articles/1844-made-complicated-part-1">
               <div className="preview-image d-sm-block d-lg-none">
                 <img src={newsClipping1843Landscape} alt="1843 news" />
               </div>
               <div className="preview-image d-none d-lg-block">
                 <img src={newsClipping1843} alt="1843 news" />
               </div>
-            </a>
+            </Link>
           </div>
         </Col>
         <Col lg={9} xs={12} className="d-flex justify-content-evenly p-0">
           <div className="preview-text">
             <div className="title">
-              <a href="https://www.google.com">
+              <Link to="/articles/1844-made-complicated-part-1">
                 1844 Made Complicated (Part 1)
-              </a>
+              </Link>
             </div>
             <div className="subtitle">
-              <a href="https://www.google.com">
+              <Link to="/articles/1844-made-complicated-part-1">
                 Examining how 1844 could be the Second Coming, Cleansing of the
                 Heavenly Sanctuary or a Nonevent
-              </a>
+              </Link>
             </div>
             <div className="teaser">
-              <a href="https://www.google.com">
+              <Link to="/articles/1844-made-complicated-part-1">
                 In Douglas Adams&apos; popular sci-fi novel titled The
                 Hitchhiker&apos;s Guide to the Galaxy, a group of highly
                 intelligent beings developed a supercomputer named Deep Thought,
                 in order to determine the Answer to the Ultimate Question of
                 Life, the Universe and Everything. In the story, it takes Deep
                 Thought 7 ½ million years to...
-              </a>
+              </Link>
             </div>
             <div className="read-more">
-              <Button variant="outline-dark" href="#">
+              <Button
+                variant="outline-dark"
+                href="/articles/1844-made-complicated-part-1"
+              >
                 Read more
               </Button>
             </div>
@@ -66,38 +70,43 @@ function FeaturedContent() {
           className="d-flex justify-content-center p-md-0 p-sm-5"
         >
           <div className="preview-container">
-            <a href="https://www.google.com">
+            <Link to="/articles/1844-made-complicated-part-2">
               <div className="preview-image d-sm-block d-lg-none">
                 <img src={milleriteChartLandscape} alt="Millerite Chart" />
               </div>
               <div className="preview-image d-none d-lg-block">
                 <img src={milleriteChart} alt="Millerite Chart" />
               </div>
-            </a>
+            </Link>
           </div>
         </Col>
         <Col lg={9} xs={12} className="d-flex justify-content-evenly p-0">
           <div className="preview-text">
             <div className="title">
-              <a href="https://www.google.com">
+              <Link to="/articles/1844-made-complicated-part-2">
                 1844 Made Complicated (Part 2)
-              </a>
+              </Link>
             </div>
             <div className="subtitle">
-              <a href="https://www.google.com">Continued from Part 1</a>
+              <Link to="/articles/1844-made-complicated-part-2">
+                Continued from Part 1
+              </Link>
             </div>
             <div className="teaser">
-              <a href="https://www.google.com">
+              <Link to="/articles/1844-made-complicated-part-2">
                 In Douglas Adams&apos; popular sci-fi novel titled The
                 Hitchhiker&apos;s Guide to the Galaxy, a group of highly
                 intelligent beings developed a supercomputer named Deep Thought,
                 in order to determine the Answer to the Ultimate Question of
                 Life, the Universe and Everything. In the story, it takes Deep
                 Thought 7 ½ million years ...
-              </a>
+              </Link>
             </div>
             <div className="read-more">
-              <Button variant="outline-dark" href="#">
+              <Button
+                variant="outline-dark"
+                href="/articles/1844-made-complicated-part-2"
+              >
                 Read more
               </Button>
             </div>
@@ -111,37 +120,37 @@ function FeaturedContent() {
           className="d-flex justify-content-center p-md-0 p-sm-5"
         >
           <div className="preview-container">
-            <a href="https://www.google.com">
+            <Link to="/articles/egw-true-prophet">
               <div className="preview-image d-none d-lg-block">
                 <img src={egwPhoto} alt="Ellen G. White" />
               </div>
               <div className="preview-image d-sm-block d-lg-none">
                 <img src={egwPhotoLandscape} alt="Ellen G. White" />
               </div>
-            </a>
+            </Link>
           </div>
         </Col>
         <Col lg={9} xs={12} className="d-flex justify-content-evenly p-0">
           <div className="preview-text">
             <div className="title">
-              <a href="https://www.google.com">
+              <Link to="/articles/egw-true-prophet">
                 Is Ellen G. White A True Prophet?
-              </a>
+              </Link>
             </div>
             <div className="subtitle">
-              <a href="https://www.google.com">
+              <Link to="/articles/egw-true-prophet">
                 Lunatic, Liar or Lord&apos;s Prophet
-              </a>
+              </Link>
             </div>
             <div className="teaser">
-              <a href="https://www.google.com">
+              <Link to="/articles/egw-true-prophet">
                 Ellen G. White is believed by majority of Seventh-day Adventists
-                as a prophet. A modern-day Elijah or John the Baptist who
-                heralded the First Advent of the Messiah...
-              </a>
+                as a prophet. She is liked to a modern-day Elijah or John the
+                Baptist who heralded the First Advent of the Messiah...
+              </Link>
             </div>
             <div className="read-more">
-              <Button variant="outline-dark" href="#">
+              <Button variant="outline-dark" href="/articles/egw-true-prophet">
                 Read more
               </Button>
             </div>
