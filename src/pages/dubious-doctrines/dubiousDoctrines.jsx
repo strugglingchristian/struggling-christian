@@ -1,7 +1,7 @@
 function DubiousDoctrines() {
   return (
     <div id="dubious">
-      <h1>Dubious Doctrines</h1>
+      <div className="title">Dubious Doctrines</div>
     </div>
   );
 }
