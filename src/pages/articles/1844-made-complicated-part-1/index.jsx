@@ -2,7 +2,7 @@ import "../style.css";
 
 function Article1844Part1() {
   return (
-    <div className="articles">
+    <div id="articles">
       <h1>1844 Made Complicated (Part 1) </h1>
       <div className="subtitle">
         Examining how 1844 could be the Second Coming, Cleansing of the Heavenly

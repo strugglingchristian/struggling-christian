@@ -11,7 +11,7 @@ import "./style.css";
 
 function FeaturedContent() {
   return (
-    <div>
+    <>
       <Row className="pb-4">
         <Col
           lg={3}
@@ -54,7 +54,7 @@ function FeaturedContent() {
             </div>
             <div className="read-more">
               <Button
-                variant="outline-dark"
+                variant="success"
                 href="/articles/1844-made-complicated-part-1"
               >
                 Read more
@@ -104,7 +104,7 @@ function FeaturedContent() {
             </div>
             <div className="read-more">
               <Button
-                variant="outline-dark"
+                variant="success"
                 href="/articles/1844-made-complicated-part-2"
               >
                 Read more
@@ -150,24 +150,26 @@ function FeaturedContent() {
               </Link>
             </div>
             <div className="read-more">
-              <Button variant="outline-dark" href="/articles/egw-true-prophet">
+              <Button variant="success" href="/articles/egw-true-prophet">
                 Read more
               </Button>
             </div>
           </div>
         </Col>
       </Row>
-    </div>
+    </>
   );
 }
 
 function Home() {
   return (
-    <Container>
-      <Row className="featured-content">
-        <FeaturedContent />
-      </Row>
-    </Container>
+    <div id="home">
+      <Container>
+        <Row className="featured-content pt-0">
+          <FeaturedContent />
+        </Row>
+      </Container>
+    </div>
   );
 }
 

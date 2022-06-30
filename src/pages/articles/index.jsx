@@ -2,7 +2,7 @@ import "./style.css";
 
 function Articles() {
   return (
-    <div className="articles">
+    <div id="articles">
       <h1>Articles</h1>
     </div>
   );

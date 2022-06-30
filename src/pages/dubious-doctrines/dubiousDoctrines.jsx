@@ -1,5 +1,9 @@
 function DubiousDoctrines() {
-  return <h1>Dubious Doctrines</h1>;
+  return (
+    <div id="dubious">
+      <h1>Dubious Doctrines</h1>
+    </div>
+  );
 }
 
 export default DubiousDoctrines;
