@@ -8,15 +8,50 @@ body {
   color: #212121;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
-
 * {
   box-sizing: border-box;
 }
 
 .show-border {
   border: 1px solid red;
+}
+
+/* Fonts */
+
+@font-face {
+  font-family: "RalewayBold";
+  src: local("RalewayBold"),
+    url("./fonts/Raleway/Raleway-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: local("Raleway"),
+    url("./fonts/Raleway/Raleway-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "RalewayItalic";
+  src: local("RalewayItalic"),
+    url("./fonts/Raleway/Raleway-Italic.ttf") format("truetype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "RalewayMedium";
+  src: local("RalewayMedium"),
+    url("./fonts/Raleway/Raleway-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "RalewaySemiBold";
+  src: local("RalewaySemiBold"),
+    url("./fonts/Raleway/Raleway-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "RalewayLight";
+  src: local("RalewayLight"),
+    url("./fonts/Raleway/Raleway-Light.ttf") format("truetype");
 }
