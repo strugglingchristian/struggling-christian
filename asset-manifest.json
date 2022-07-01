@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.06340229.css",
-    "main.js": "/static/js/main.f3928f57.js",
+    "main.css": "/static/css/main.7b27e656.css",
+    "main.js": "/static/js/main.74fc1de4.js",
     "static/js/787.5f5ee9b4.chunk.js": "/static/js/787.5f5ee9b4.chunk.js",
     "static/media/miller-chart-landscape.png": "/static/media/miller-chart-landscape.e8883553c7701f3e80e5.png",
+    "static/media/Raleway-Light.ttf": "/static/media/Raleway-Light.f25e9b3a1fc8e48e53f5.ttf",
+    "static/media/Raleway-Medium.ttf": "/static/media/Raleway-Medium.1af9f1e9f3fd4766df83.ttf",
+    "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.9ade142e81dd8d55cd32.ttf",
+    "static/media/Raleway-SemiBold.ttf": "/static/media/Raleway-SemiBold.243af299ad3631bfc369.ttf",
+    "static/media/Raleway-Bold.ttf": "/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
+    "static/media/Raleway-Italic.ttf": "/static/media/Raleway-Italic.2a3303d3281dbe80bec6.ttf",
     "static/media/1843-header-landscape.png": "/static/media/1843-header-landscape.a7499dedd5ec444fc14e.png",
     "static/media/family-radio-group.jpeg": "/static/media/family-radio-group.fa021ab0a0ea406a6e9d.jpeg",
     "static/media/1843-news-clipping.jpg": "/static/media/1843-news-clipping.b8a1dd02683a6b8723a0.jpg",
@@ -11,12 +17,12 @@
     "static/media/1844-millerite-chart-old.jpg": "/static/media/1844-millerite-chart-old.a3e4b85607774b2f3a8a.jpg",
     "static/media/egw-landscape.png": "/static/media/egw-landscape.9c09110feeab9805a6f9.png",
     "index.html": "/index.html",
-    "main.06340229.css.map": "/static/css/main.06340229.css.map",
-    "main.f3928f57.js.map": "/static/js/main.f3928f57.js.map",
+    "main.7b27e656.css.map": "/static/css/main.7b27e656.css.map",
+    "main.74fc1de4.js.map": "/static/js/main.74fc1de4.js.map",
     "787.5f5ee9b4.chunk.js.map": "/static/js/787.5f5ee9b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06340229.css",
-    "static/js/main.f3928f57.js"
+    "static/css/main.7b27e656.css",
+    "static/js/main.74fc1de4.js"
   ]
 }
