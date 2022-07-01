@@ -14,7 +14,7 @@ function FeaturedContent() {
     <>
       <Row className="pb-4">
         <Col
-          lg={3}
+          xxl={3}
           xs={12}
           className="d-flex justify-content-center p-md-0 p-sm-5"
         >
@@ -29,7 +29,7 @@ function FeaturedContent() {
             </Link>
           </div>
         </Col>
-        <Col lg={9} xs={12} className="d-flex justify-content-evenly p-0">
+        <Col xxl={9} xs={12} className="d-flex justify-content-evenly p-0">
           <div className="preview-text">
             <div className="title">
               <Link to="/articles/1844-made-complicated-part-1">
@@ -65,7 +65,7 @@ function FeaturedContent() {
       </Row>
       <Row className="pb-4 mt-sm-2">
         <Col
-          lg={3}
+          xxl={3}
           xs={12}
           className="d-flex justify-content-center p-md-0 p-sm-5"
         >
@@ -80,7 +80,7 @@ function FeaturedContent() {
             </Link>
           </div>
         </Col>
-        <Col lg={9} xs={12} className="d-flex justify-content-evenly p-0">
+        <Col xxl={9} xs={12} className="d-flex justify-content-evenly p-0">
           <div className="preview-text">
             <div className="title">
               <Link to="/articles/1844-made-complicated-part-2">
@@ -115,7 +115,7 @@ function FeaturedContent() {
       </Row>
       <Row className="pb-4 mt-sm-2">
         <Col
-          lg={3}
+          xxl={3}
           xs={12}
           className="d-flex justify-content-center p-md-0 p-sm-5"
         >
@@ -130,7 +130,7 @@ function FeaturedContent() {
             </Link>
           </div>
         </Col>
-        <Col lg={9} xs={12} className="d-flex justify-content-evenly p-0">
+        <Col xxl={9} xs={12} className="d-flex justify-content-evenly p-0">
           <div className="preview-text">
             <div className="title">
               <Link to="/articles/egw-true-prophet">
@@ -164,8 +164,8 @@ function FeaturedContent() {
 function Home() {
   return (
     <div id="home">
-      <Container>
-        <Row className="featured-content pt-0">
+      <Container fluid>
+        <Row className="featured-content pt-0 px-0">
           <FeaturedContent />
         </Row>
       </Container>
