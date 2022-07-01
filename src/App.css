@@ -23,9 +23,11 @@ body {
 }
 
 @media only screen and (min-width: 992px) {
+  #home,
   #articles,
   #dubious,
   #about {
     margin-top: 30px;
+    line-height: 1.6;
   }
 }
