@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Images from "../../../assets/images";
 
 import "../style.css";
@@ -35,11 +36,10 @@ function Article1844Part1() {
           <img
             src={Images.img42meaningOfLife}
             alt="42 meaning of life"
-            width="400"
-            height="auto"
+            className="responsive"
           />
         </p>
-        <p align="justify">
+        <p>
           Science fiction aside, there has been a much awaited event by
           Christians all over the world for over two millennia since the
           resurrection and ascension of Jesus Christ, and that is the Second
@@ -58,12 +58,10 @@ function Article1844Part1() {
           children and their children&apos;s children down to our present
           generation.
         </p>
-
-        <p align="justify">
+        <p>
           Good thing Jesus did not leave His followers clueless and left them
           many signs of His return. Some of these are:
         </p>
-
         <p align="center">
           <em>
             You will hear of wars and rumors of wars, but see to it that you are
@@ -71,7 +69,6 @@ function Article1844Part1() {
             Matt. 24:6
           </em>
         </p>
-
         <p align="center">
           <em>
             Nation will rise against nation, and kingdom against kingdom. There
@@ -79,7 +76,6 @@ function Article1844Part1() {
             beginning of birth pains. Matt. 24:7-8
           </em>
         </p>
-
         <p align="center">
           <em>
             There will be signs in the sun, moon and stars. On the earth,
@@ -89,13 +85,11 @@ function Article1844Part1() {
             21:25-26
           </em>
         </p>
-
-        <p align="justify">
+        <p>
           These signs have been visible since the time of the early Christians,
           and that’s why some people from the time of the apostles began to
           doubt the second coming of the Lord.
         </p>
-
         <p align="center">
           <em>
             They will say, “Where is this ‘coming’ he promised? Ever since our
@@ -103,7 +97,7 @@ function Article1844Part1() {
             creation. 2 Peter 3:4
           </em>
         </p>
-        <p align="justify">
+        <p>
           The Second Advent is soon. But from a human perspective, Our{" "}
           <em>&quot;soon&quot;</em> may be different from God&apos;s{" "}
           <em>&quot;soon&quot;</em>. The apostle Peter writes,
@@ -117,15 +111,13 @@ function Article1844Part1() {
             perish, but everyone to come to repentance. 2 Peter 3:8-9
           </em>
         </p>
-
-        <p align="justify">
+        <p>
           Sadly, some believers abandoned their faith and did not believe
           anymore that the Lord would return. Others however, with great zeal
           have been expecting the Lord and went on to predict His exact return,
           even down to the very day and hour. Had they remembered Jesus&apos;
           words, they would not have done this. Jesus said
         </p>
-
         <p align="center">
           <em>
             But about that day or hour no one knows, not even the angels in
@@ -139,8 +131,7 @@ function Article1844Part1() {
             come like a thief in the night. 1st Thess. 5:1-2
           </em>
         </p>
-
-        <p align="justify">
+        <p>
           Throughout history, many people have tried, and failed to predict the
           exact day of the Lord&apos;s return. These are but a few:
         </p>
@@ -158,11 +149,10 @@ function Article1844Part1() {
           <img
             src={Images.imgHaroldCamping}
             alt="Harold Camping"
-            width="200"
-            height="auto"
+            className="responsive"
           />
         </p>
-        <p align="justify">
+        <p>
           Harold Camping is the one that was fairly recent and has caught a lot
           of media attention. Harold Camping, through his group Family Radio,
           predicted that the end of the world would occur on May 21, 2011 and
@@ -193,7 +183,8 @@ function Article1844Part1() {
         <p align="center">
           <img
             src={Images.imgFamilyRadioGroup}
-            alt="Family Radio Group announcing the end of the wolrd"
+            alt="Family Radio Group announcing the end of the world"
+            className="responsive"
           />
           <br />
           <em>
@@ -204,12 +195,15 @@ function Article1844Part1() {
         </p>
         <h2>William Miller</h2>
         <p align="center">
-          <img src={Images.imgWilliamMiller} alt="William Miller" />
+          <img
+            src={Images.imgWilliamMiller}
+            alt="William Miller"
+            className="responsive"
+          />
           <br />
           <em>(1782-1849)</em>
         </p>
-
-        <p align="justify">
+        <p>
           William Miller was born on February 15, 1782, in Pittsfield,
           Massachusetts. He was a veteran in the American revolution and gained
           the rank of captain. After the war he became a farmer and took up
@@ -241,8 +235,7 @@ function Article1844Part1() {
           to show how he got to the date but we will discuss this briefly in a
           little bit.
         </p>
-
-        <p align="justify">
+        <p>
           Miller has no specific date for his prediction but he eventually
           narrowed down his calculation. According to Miller,{" "}
           <em>
@@ -259,8 +252,7 @@ function Article1844Part1() {
             <sup>[2]</sup>&quot
           </em>
         </p>
-
-        <p align="justify">
+        <p>
           But in August of 1844 at a camp-meeting in Exeter, New Hampshire,
           Samuel Snow <sup>[3]</sup> presented the seventh-month message or{" "}
           <strong>
@@ -281,11 +273,17 @@ function Article1844Part1() {
             <em>“The Great Disappointment.”</em>
           </strong>
         </p>
+        <br />
         <p>
           <em>
-            <h3>To Be continued on part 2...</h3>
+            <h4>
+              <Link to="/articles/1844-made-complicated-part-2">
+                To be continued on part 2...
+              </Link>
+            </h4>
           </em>
         </p>
+        <br />
       </div>
     </div>
   );

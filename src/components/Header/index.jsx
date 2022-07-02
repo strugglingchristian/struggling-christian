@@ -9,7 +9,7 @@ function Header() {
           &nbsp;
         </Col>
         <Col md={12} xxl={8} xs={12}>
-          <Row>
+          <Row className="py-0 my-0">
             <Col xxl={8} md={6} xs={8}>
               <Row className="header-title">
                 <Col className="d-flex">Struggling Christian</Col>
