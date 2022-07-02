@@ -5,12 +5,12 @@ function Header() {
   return (
     <Container>
       <Row className="header">
-        <Col lg={2} md={0} className="d-none d-md-block">
+        <Col xxl={2} md={0} className="d-none d-md-block">
           &nbsp;
         </Col>
-        <Col md={12} lg={8}>
+        <Col md={12} xxl={8} xs={12}>
           <Row>
-            <Col lg={8} md={6}>
+            <Col xxl={8} md={6} xs={8}>
               <Row className="header-title">
                 <Col className="d-flex">Struggling Christian</Col>
               </Row>
@@ -20,12 +20,23 @@ function Header() {
                 </Col>
               </Row>
             </Col>
-            <Col lg={4} md={6} className="d-flex justify-content-md-end">
-              <Navbar collapseOnSelect expand="md" variant="dark" bg="dark">
+            <Col
+              xxl={4}
+              md={6}
+              xs={4}
+              className="d-flex justify-content-end p-0"
+            >
+              <Navbar
+                className="color-nav p-0"
+                collapseOnSelect
+                expand="md"
+                variant="dark"
+                bg="dark"
+              >
                 <Container>
                   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                   <Navbar.Collapse id="responsive-navbar-nav">
-                    <Nav className="ml-auto">
+                    <Nav className="dropdown-menu-end px-0">
                       <Nav.Link href="/">Home</Nav.Link>
                       <Nav.Link href="/dubious-doctrines">
                         Dubious Doctrines
@@ -39,7 +50,7 @@ function Header() {
             </Col>
           </Row>
         </Col>
-        <Col lg={2} md={0} className="d-none d-md-block">
+        <Col xxl={2} md={0} className="d-none d-md-block">
           &nbsp;
         </Col>
       </Row>

@@ -61,7 +61,7 @@
   }
 }
 
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 1400px) {
   .header {
     height: 200px;
     background-color: #262626;
@@ -88,4 +88,8 @@
 
 .menu-row {
   border: 1px solid red;
+}
+
+.color-nav {
+  background-color: #262626 !important;
 }
