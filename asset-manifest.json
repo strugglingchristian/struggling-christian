@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb88d30b.css",
-    "main.js": "/static/js/main.5c9ad64e.js",
+    "main.css": "/static/css/main.43051bfa.css",
+    "main.js": "/static/js/main.39ef2100.js",
     "static/js/787.5f5ee9b4.chunk.js": "/static/js/787.5f5ee9b4.chunk.js",
     "static/media/miller-chart-landscape.png": "/static/media/miller-chart-landscape.e8883553c7701f3e80e5.png",
     "static/media/Raleway-Light.ttf": "/static/media/Raleway-Light.f25e9b3a1fc8e48e53f5.ttf",
@@ -17,12 +17,12 @@
     "static/media/1844-millerite-chart-old.jpg": "/static/media/1844-millerite-chart-old.a3e4b85607774b2f3a8a.jpg",
     "static/media/egw-landscape.png": "/static/media/egw-landscape.9c09110feeab9805a6f9.png",
     "index.html": "/index.html",
-    "main.fb88d30b.css.map": "/static/css/main.fb88d30b.css.map",
-    "main.5c9ad64e.js.map": "/static/js/main.5c9ad64e.js.map",
+    "main.43051bfa.css.map": "/static/css/main.43051bfa.css.map",
+    "main.39ef2100.js.map": "/static/js/main.39ef2100.js.map",
     "787.5f5ee9b4.chunk.js.map": "/static/js/787.5f5ee9b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb88d30b.css",
-    "static/js/main.5c9ad64e.js"
+    "static/css/main.43051bfa.css",
+    "static/js/main.39ef2100.js"
   ]
 }
