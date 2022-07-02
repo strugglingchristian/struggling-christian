@@ -247,9 +247,9 @@ function Article1844Part1() {
           When the dates have passed without the Second Coming, Miller stated
           publicly,{" "}
           <em>
-            &quotI confess my error, and acknowledge my disappointment; yet I
+            &quot;I confess my error, and acknowledge my disappointment; yet I
             still believe that the day of the Lord is near, even at the door.{" "}
-            <sup>[2]</sup>&quot
+            <sup>[2]</sup>&quot;
           </em>
         </p>
         <p>

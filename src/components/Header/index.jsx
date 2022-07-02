@@ -10,7 +10,7 @@ function Header() {
         </Col>
         <Col md={12} xxl={8} xs={12}>
           <Row className="py-0 my-0">
-            <Col xxl={8} md={6} xs={8}>
+            <Col xxl={7} md={6} xs={8}>
               <Row className="header-title">
                 <Col className="d-flex">Struggling Christian</Col>
               </Row>
@@ -20,16 +20,11 @@ function Header() {
                 </Col>
               </Row>
             </Col>
-            <Col
-              xxl={4}
-              md={6}
-              xs={4}
-              className="d-flex justify-content-end p-0"
-            >
+            <Col xxl={5} md={6} xs={4} className="d-flex justify-content-end">
               <Navbar
                 className="color-nav p-0"
                 collapseOnSelect
-                expand="md"
+                expand="xl"
                 variant="dark"
                 bg="dark"
               >
