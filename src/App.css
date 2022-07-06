@@ -13,7 +13,7 @@ body {
   #about {
     margin-top: 20px;
     line-height: 1.5;
-    padding: 0 10px;
+    padding: 0 15px;
     border-bottom: 1px dashed #363636;
     margin-bottom: 10px;
   }
@@ -23,6 +23,7 @@ body {
     max-width: 300px;
     height: auto;
     border: 1px solid green;
+    object-fit: cover;
   }
 
   #articles a {
@@ -35,12 +36,24 @@ body {
     text-decoration: underline;
     transition: 0.3s;
   }
+
+  #home p,
+  #articles p,
+  #dubious p,
+  #about p {
+    margin-top: 15px;
+  }
 }
 
 @media only screen and (min-width: 480px) {
 }
 
 @media only screen and (min-width: 768px) {
+  .responsive {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+  }
 }
 
 @media only screen and (min-width: 992px) {
@@ -52,6 +65,12 @@ body {
     line-height: 1.6;
     padding: 0;
     border-bottom: 0;
+  }
+  #home p,
+  #articles p,
+  #dubious p,
+  #about p {
+    margin-top: 20px;
   }
 }
 
@@ -65,8 +84,27 @@ body {
   }
 
   .responsive {
-    width: 100%;
-    max-width: 400px;
+    width: max-content;
+    max-width: 100%;
     height: auto;
   }
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
 }
