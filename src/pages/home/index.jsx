@@ -94,12 +94,10 @@ function FeaturedContent() {
             </div>
             <div className="teaser">
               <Link to="/articles/1844-made-complicated-part-2">
-                In Douglas Adams&apos; popular sci-fi novel titled The
-                Hitchhiker&apos;s Guide to the Galaxy, a group of highly
-                intelligent beings developed a supercomputer named Deep Thought,
-                in order to determine the Answer to the Ultimate Question of
-                Life, the Universe and Everything. In the story, it takes Deep
-                Thought 7 ½ million years ...
+                The 1844 doctrine or Sanctuary doctrine of the Seventh-day
+                Adventists underwent several iterations from the time of Miller
+                before reaching its final form as Seventh-day Adventists know it
+                today. Let&apos;s now take a quick look ...
               </Link>
             </div>
             <div className="read-more">

@@ -3,6 +3,23 @@
     margin-bottom: 30px;
   }
 
+  .featured-content .title {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "RalewayBold";
+    line-height: normal;
+  }
+
+  .featured-content .subtitle {
+    color: #666;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    font-family: "RalewayItalic";
+    line-height: normal;
+  }
+
   .title {
     font-size: 24px;
     font-weight: bold;
@@ -51,6 +68,13 @@
 }
 
 @media only screen and (min-width: 480px) {
+  .featured-content .title {
+    font-size: 26px;
+  }
+
+  .featured-content .subtitle {
+    font-size: 14px;
+  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -65,11 +89,27 @@
     text-align: left;
     line-height: 34px;
   }
+
+  .featured-content .title {
+    text-align: left;
+  }
+
+  .featured-content .subtitle {
+    text-align: left;
+  }
 }
 
 @media only screen and (min-width: 1400px) {
   .featured-content {
     margin-bottom: 30px;
+  }
+
+  .featured-content .title {
+    font-size: xx-large;
+  }
+
+  .featured-content .subtitle {
+    font-size: 15px;
   }
 
   .teaser {
