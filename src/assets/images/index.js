@@ -14,6 +14,9 @@ import img360vs365yearsAhead from "./360-33-years-ahead.jpeg";
 import imgIsaiahStartingDate from "./isaiah-starting-date.png";
 import img49x50 from "./49x50.png";
 import imgMindblown from "./mindblown.jpeg";
+import img457StartingDate from "./457bc-starting-date.png";
+import imgWinnieThePooh from "./pooh-in-clouds.jpeg";
+import imgFaceInBark from "./face-in-bark.jpeg";
 
 const Images = {
   img1Bc1Ad,
@@ -31,7 +34,10 @@ const Images = {
   img360vs365yearsAhead,
   imgIsaiahStartingDate,
   img49x50,
-  imgMindblown
+  imgMindblown,
+  img457StartingDate,
+  imgWinnieThePooh,
+  imgFaceInBark
 };
 
 export default Images;

@@ -85,15 +85,17 @@ function Article1844Part1() {
             </em>
           </p>
         </blockquote>
-        <p align="center">
-          <em>
-            There will be signs in the sun, moon and stars. On the earth,
-            nations will be in anguish and perplexity at the roaring and tossing
-            of the sea. People will faint from terror, apprehensive of what is
-            coming on the world, for the heavenly bodies will be shaken. Luke
-            21:25-26
-          </em>
-        </p>
+        <blockquote>
+          <p align="center">
+            <em>
+              There will be signs in the sun, moon and stars. On the earth,
+              nations will be in anguish and perplexity at the roaring and
+              tossing of the sea. People will faint from terror, apprehensive of
+              what is coming on the world, for the heavenly bodies will be
+              shaken. Luke 21:25-26
+            </em>
+          </p>
+        </blockquote>
         <p>
           These signs have been visible since the time of the early Christians,
           and that&apos;s why some people from the time of the apostles began to
@@ -242,12 +244,14 @@ function Article1844Part1() {
           thorough study of the Bible led him to conclude that the Second Coming
           would be sometime around 1843. Miller based his calculation primarily
           on Daniel 8:14{" "}
-          <strong>
-            <em>
-              “And he said unto me, Unto two thousand and three hundred days;
-              then shall the sanctuary be cleansed.”
-            </em>
-          </strong>{" "}
+          <blockquote>
+            <strong>
+              <em>
+                “And he said unto me, Unto two thousand and three hundred days;
+                then shall the sanctuary be cleansed.”
+              </em>
+            </strong>
+          </blockquote>{" "}
           This is the commonly known verse on how Miller got to the year 1843,
           but this understanding came to him much later. Miller has developed
           his so-called{" "}
@@ -268,11 +272,13 @@ function Article1844Part1() {
           </em>{" "}
           When the dates have passed without the Second Coming, Miller stated
           publicly,{" "}
-          <em>
-            &quot;I confess my error, and acknowledge my disappointment; yet I
-            still believe that the day of the Lord is near, even at the door.{" "}
-            <sup>[2]</sup>&quot;
-          </em>
+          <blockquote>
+            <em>
+              &quot;I confess my error, and acknowledge my disappointment; yet I
+              still believe that the day of the Lord is near, even at the door.{" "}
+              <sup>[2]</sup>&quot;
+            </em>
+          </blockquote>
         </p>
         <p>
           But in August of 1844 at a camp-meeting in Exeter, New Hampshire,
@@ -304,20 +310,23 @@ function Article1844Part1() {
             of the Second Coming and have even convinced others to do the same
             as they wait for the Lord. William Miller wrote to Joshua Himes
             about his experience after the Great Disappointment
-            <em>
-              “Some are tauntingly enquiring, &apos;Have you not gone up?&apos;
-              Even little children in the streets are shouting continually to
-              passersby, &apos;Have you a ticket to go up?&apos; The public
-              prints, of the most fashionable and popular kind ... are
-              caricaturing in the most shameful manner of the &apos;white robes
-              of the saints,&apos; Revelation 6:11, the &apos;going up,&apos;
-              and the great day of &apos;burning.&apos; Even the pulpits are
-              desecrated by the repetition of scandalous and false reports
-              concerning the &apos;ascension robes&apos;, and priests are using
-              their powers and pens to fill the catalogue of scoffing in the
-              most scandalous periodicals of the day
-            </em>
-            <sup>[4]</sup>”
+            <blockquote>
+              <em>
+                “Some are tauntingly enquiring, &apos;Have you not gone
+                up?&apos; Even little children in the streets are shouting
+                continually to passersby, &apos;Have you a ticket to go
+                up?&apos; The public prints, of the most fashionable and popular
+                kind ... are caricaturing in the most shameful manner of the
+                &apos;white robes of the saints,&apos; Revelation 6:11, the
+                &apos;going up,&apos; and the great day of &apos;burning.&apos;
+                Even the pulpits are desecrated by the repetition of scandalous
+                and false reports concerning the &apos;ascension robes&apos;,
+                and priests are using their powers and pens to fill the
+                catalogue of scoffing in the most scandalous periodicals of the
+                day
+              </em>
+              <sup>[4]</sup>”
+            </blockquote>
           </p>
         </p>
         <p>
@@ -334,19 +343,23 @@ function Article1844Part1() {
           devastated. Hiram Edson, one of the Millerite followers, who later
           became one of the pioneers of the Seventh-day Adventist church was
           recorded as stating,{" "}
-          <em>
-            “Our fondest hopes and expectations were blasted, and such a spirit
-            of weeping came over us as I never experienced before. It seemed
-            that the loss of all earthly friends could have been no comparison.
-            We wept, and wept till the day dawned.<sup>[5]</sup>”
-          </em>
+          <blockquote>
+            <em>
+              “Our fondest hopes and expectations were blasted, and such a
+              spirit of weeping came over us as I never experienced before. It
+              seemed that the loss of all earthly friends could have been no
+              comparison. We wept, and wept till the day dawned.<sup>[5]</sup>”
+            </em>
+          </blockquote>
           William Miller, in his personal memoirs also recorded{" "}
-          <em>
-            “Were I to live my life over again, with the same evidence that I
-            then had, to be honest with God and man, I should have to do as I
-            have done. I confess my error, and acknowledge my disappointment{" "}
-            <sup>[6]</sup>”
-          </em>
+          <blockquote>
+            <em>
+              “Were I to live my life over again, with the same evidence that I
+              then had, to be honest with God and man, I should have to do as I
+              have done. I confess my error, and acknowledge my disappointment{" "}
+              <sup>[6]</sup>”
+            </em>
+          </blockquote>
         </p>
         <p>
           What the Millerites, Harold Camping&apos;s Family Radio group, and
@@ -429,25 +442,29 @@ function Article1844Part1() {
           visit the other Millerites to encourage them. As they were passing
           through a cornfield, Hiram Edson stopped in his tracks and Owen
           Crosier asked him why he was stopping, Edson replied:{" "}
-          <em>
-            “The Lord was answering our morning prayer, by giving light with
-            regard to our disappointment <sup>[9]</sup>”
-          </em>
+          <blockquote>
+            <em>
+              “The Lord was answering our morning prayer, by giving light with
+              regard to our disappointment <sup>[9]</sup>”
+            </em>
+          </blockquote>
         </p>
         <p>
           In Edson&apos;s vision he wrote that{" "}
-          <em>
-            “Heaven seemed open to my view, and I saw distinctly and clearly
-            that instead of our High Priest coming out of the Most Holy of the
-            heavenly sanctuary to come to this earth on the tenth day of the
-            seventh month, at the end of the 2300 days, that He for the first
-            time entered on that day the second apartment of that sanctuary; and
-            that He had a work to perform in the Most Holy before coming to this
-            earth. That He came to the marriage at that time [as mentioned in
-            the parable of the Ten Virgins]; in other words, to the Ancient of
-            days to receive a kingdom, dominion, and glory; and we must wait for
-            His return from the wedding <sup>[10]</sup>”
-          </em>
+          <blockquote>
+            <em>
+              “Heaven seemed open to my view, and I saw distinctly and clearly
+              that instead of our High Priest coming out of the Most Holy of the
+              heavenly sanctuary to come to this earth on the tenth day of the
+              seventh month, at the end of the 2300 days, that He for the first
+              time entered on that day the second apartment of that sanctuary;
+              and that He had a work to perform in the Most Holy before coming
+              to this earth. That He came to the marriage at that time [as
+              mentioned in the parable of the Ten Virgins; in other words, to
+              the Ancient of days to receive a kingdom, dominion, and glory; and
+              we must wait for His return from the wedding <sup>[10]</sup>”
+            </em>
+          </blockquote>
         </p>
         <p>
           This vision gave their group new hope that what Miller taught was

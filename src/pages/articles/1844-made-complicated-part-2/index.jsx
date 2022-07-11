@@ -616,6 +616,340 @@ function Article1844Part2() {
             </em>
           </p>
         </blockquote>
+        <p>
+          This proof is certainly more complicated than the ones we&apos;ve
+          discussed. But let&apos;s try to understand this.
+        </p>
+
+        <p>
+          Here, Miller reasoned that there are 7 Jewish Sabbaths, but the Jews
+          were only able to keep 6 out of the 7. According to Miller,
+          <blockquote>
+            <em>
+              “if they [the Jews] had kept the seventh they would have been made
+              perfect without us; but they broke the seventh.”
+            </em>
+          </blockquote>
+          So if only they were able to keep the all 7 Sabbaths then they would
+          have been made perfect. I don&apos;t know about you but this sounds
+          like salvation by works to me. Anyways, let&apos;s proceed to examine
+          these 7 sabbaths listed by Miller
+        </p>
+        <p>
+          <ol>
+            <li>
+              <strong>
+                <u>The 7th day:</u>
+              </strong>
+              <blockquote>
+                <em>
+                  “For six days work is to be done, but the seventh day is a day
+                  of sabbath rest, holy to the LORD. Whoever does any work on
+                  the Sabbath day is to be put to death.” Exodus 31:15
+                </em>
+              </blockquote>
+            </li>
+            <li>
+              <strong>
+                <u> The 50th day:</u>
+              </strong>
+              <blockquote>
+                <em>
+                  “From the day after the Sabbath, the day you brought the sheaf
+                  of the wave offering, count off seven full weeks. Count off
+                  fifty days up to the day after the seventh Sabbath, and then
+                  present an offering of new grain to the Lord.” Lev 23:15,16
+                </em>
+              </blockquote>
+            </li>
+
+            <li>
+              <strong>
+                <u> The 7th week:</u>
+              </strong>
+              <blockquote>
+                <em>
+                  “Count off seven weeks from the time you begin to put the
+                  sickle to the standing grain. Then celebrate the Festival of
+                  Weeks to the Lord your God by giving a freewill offering in
+                  proportion to the blessings the Lord your God has given you.”
+                  Deut 16:9
+                </em>
+              </blockquote>
+            </li>
+
+            <li>
+              <strong>
+                <u> The 7th month:</u>
+              </strong>
+              <blockquote>
+                <em>
+                  The Lord said to Moses, “Say to the Israelites: &apos;On the
+                  first day of the seventh month you are to have a day of
+                  sabbath rest, a sacred assembly commemorated with trumpet
+                  blasts. Do no regular work, but present a food offering to the
+                  Lord” Lev 23:24,25
+                </em>
+              </blockquote>
+            </li>
+
+            <li>
+              <strong>
+                <u> The 7th year:</u>
+              </strong>
+              <blockquote>
+                <em>
+                  “For six years sow your fields, and for six years prune your
+                  vineyards and gather their crops. But in the seventh year the
+                  land is to have a year of sabbath rest, a sabbath to the Lord.
+                  Do not sow your fields or prune your vineyards.” Lev 25:3,4
+                </em>
+              </blockquote>
+            </li>
+
+            <li>
+              <strong>
+                <u> The 7 times 7 years and 50th Jubilee: </u>
+              </strong>
+              <blockquote>
+                <em>
+                  &apos;Count off seven sabbath years—seven times seven years—so
+                  that the seven sabbath years amount to a period of forty-nine
+                  years. Then have the trumpet sounded everywhere on the tenth
+                  day of the seventh month; on the Day of Atonement sound the
+                  trumpet throughout your land. Consecrate the fiftieth year and
+                  proclaim liberty throughout the land to all its inhabitants.
+                  It shall be a jubilee for you; each of you is to return to
+                  your family property and to your own clan. The fiftieth year
+                  shall be a jubilee for you; do not sow and do not reap what
+                  grows of itself or harvest the untended vines. For it is a
+                  jubilee and is to be holy for you; eat only what is taken
+                  directly from the fields. In this Year of Jubilee everyone is
+                  to return to their own property. Lev 25:8-13
+                </em>
+              </blockquote>
+            </li>
+
+            <li>
+              <strong>
+                <u>The Jubilee of Jubilees:</u>
+              </strong>{" "}
+              Interestingly enough, Miller doesn’t provide a verse for this but
+              instead gives a computation
+              <strong>
+                <em>“Thus 7 times 7, 50 years is 49 times 50 — 2450 years.”</em>
+              </strong>
+            </li>
+          </ol>
+        </p>
+        <p>
+          As you can see, Miller conveniently pointed out the pattern of
+          Sabbaths as observed by the Israelites. You will notice that this is
+          arranged in increasing order, starting from the weekly, 50th day, 7th
+          week, 7th month, 7th year and to the culmination which was the Jubilee
+          of Jubilees or 49 times 50 years. But I don&apos;t know if Miller was
+          aware that number 2, which is the 50th day and number 3 which is the
+          7th week, is talking of the same Sabbath Festival, that is the
+          Festival of Weeks? So this would make his list just 6 Sabbaths instead
+          of 7. And he conveniently left out Yom Kippur or the Day of Atonement
+          which was also observed as a Sabbath. In fact, Jews call this the
+          <strong>
+            <em>&quot;Sabbath of Sabbaths&quot;</em>
+          </strong>{" "}
+          and this occurs once a year.
+        </p>
+        <p>
+          <blockquote>
+            <em>
+              “This is to be a lasting ordinance for you: On the tenth day of
+              the seventh month you must deny yourselves c and not do any
+              work—whether native-born or a foreigner residing among you—
+              because on this day atonement will be made for you, to cleanse
+              you. Then, before the Lord, you will be clean from all your sins.
+              It is a day of sabbath rest, and you must deny yourselves; it is a
+              lasting ordinance. Lev. 16:29-31
+            </em>
+          </blockquote>
+        </p>
+        <p>
+          The only reason I can think of why Miller would leave this out is
+          because it would break his pattern of increasing order in relation to
+          seven. But maybe he should&apos;ve just added this instead of
+          duplicating the festival of weeks, who knows? But it doesn&apos;t
+          matter anyway because this reasoning is faulty to begin with.
+        </p>
+
+        <p>
+          Then we come to the 7th in his list of Sabbaths which according to him
+          was not observed by the Israelites, and that is the Jubilee of
+          Jubilees or 49 x 50 = 2450 years. This is not found anywhere in the
+          Bible nor in any way alluded to. How would the Israelite even know
+          that they should multiply the seven times seven by the 50th year? This
+          is possible only with a <s>little bit</s> a lot of imagination.
+        </p>
+        <p>
+          And as you can see from the equation, this proof has a different
+          starting date, and that is 607 BC. But what is significant in 607 BC?
+          you might ask, Well according to Miller, this is the end of the reign
+          of King Josiah of Judah. After his death, the kingdom of Judah stopped
+          observing the jubilee. Miller believed that the Israelites were only
+          able to observe 21 jubilees, still lacking 28 more in order to
+          complete the 49 jubilees, leading to the 50th. Thus, 7 x 7 jubilees
+          (49) x 50 = 2450.
+        </p>
+        <p>
+          But according to historical records&nbsp;
+          <a
+            href="https://www.britannica.com/biography/Josiah"
+            target="_blank"
+            rel="noreferrer"
+          >
+            King Josiah
+          </a>
+          &nbsp; reigned from 640-609 BCE. That&apos;s about 2 years off from
+          Miller&apos;s date, but let&apos;s grant him this for now, maybe the
+          timeline was off during Miller&apos;s day so let&apos;s go with that.
+          So if you subtract 607 from 2450, then you would get 1843 again. And
+          not surprisingly, 607 BC also was the date used by Jehovah&apos;s
+          Witnesses when they predicted the end of the world on 1914. But what
+          they believed was 607 BC was year of the destruction of Jerusalem by
+          Babylon and instead of subtracting that from 2450, they subtracted
+          instead from 2520 years
+          <em>(see proof 1)</em> to get to 1914. The Jehovah&apos;s Witnesses
+          know better to add 1 year to the date because there is no year 0 in
+          the calendar, which the Millerites at that time haven&apos;t thought
+          of. It&apos;s not strange that the Seventh-day Adventist and
+          Jehovah&apos;s Witnesses would share these same convuluted
+          calculations because they both came out of the Millerite movement. The
+          Adventists stuck with 1844 but now believes that it was the start of
+          Jesus&apos; high priestly ministry in the Most Holy Place in heaven,
+          while the Jehovah&apos;s Witnesses went with 1914 but now believes
+          that Jesus began his rule as King of God&apos;s Kingdom in 1914.
+          Pretty strange indeed.
+        </p>
+        <p>
+          Let&apos;s now go to the last proof we&apos;ll cover but this would be
+          the most important one.
+        </p>
+        <h3>
+          <u>Miller&apos;s Proof 8</u>
+        </h3>
+        <p align="center">
+          <img
+            src={Images.img457StartingDate}
+            className="responsive"
+            alt="457 Starting date"
+          />
+        </p>
+        <p>
+          <blockquote>
+            <em>
+              <strong>Proof VIII.</strong> I can prove it by the length of the
+              vision which Daniel had (8:1-14) of the ram, he-goat, and little
+              horn, which Daniel was informed was 2300 days long. Dan. 8:13,14;
+              &quot;Then I heard one saint speaking, and another saint said unto
+              that certain saint which spake, How long shall be the vision
+              concerning the daily sacrifice, and the transgression of
+              desolation, to give both the sanctuary and the host to be trodden
+              under foot? And he said unto me, Unto two thousand and three
+              hundred days; then shall the sanctuary be cleansed.&quot; And from
+              which the 70 weeks were cut off, and fulfilled, the year of
+              Christ&apos;s death. Dan. 9:20—27. Then 70 weeks be, years cut off
+              from 2300 days, makes these days years; and 490 years fulfillled
+              in A, D. 33, leaves 1810 years to the fulfillment of the vision,
+              which added to 33 makes 1843, when the sanctuary will be cleansed
+              and the people of God justified. (See Miller&apos;s Lectures, p.
+              73.)
+            </em>
+          </blockquote>
+        </p>
+        <p>
+          <p>
+            As I was reading about Miller&apos;s proofs, I can&apos;t help but
+            wonder whether Miller has experienced a case of&nbsp;
+            <strong>
+              <em>
+                <a
+                  href="https://www.masterclass.com/articles/how-to-avoid-apophenia-bias#how-to-avoid-apophenia"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Apophenia
+                </a>
+              </em>
+            </strong>
+            . I am not a medical expert by any means but it is defined in
+            Merriam-Webster dictionary as
+            <strong>
+              <em>
+                “the tendency to perceive a connection or meaningful pattern
+                between unrelated or random things (such as objects or ideas)”.
+              </em>
+            </strong>
+            &nbsp; In Miller&apos;s quest to discover the date of the
+            Lord&apos;s return, I think that his mind must have latched on to
+            the idea that 1843 is the date that the Bible points to. As the
+            saying goes,
+            <em>“All roads lead to Rome”.</em> His proofs point to 1843. He
+            couldn&apos;t see it any other way.
+          </p>
+
+          <p>
+            It&apos;s like when you look at the clouds and see a pattern formed,
+            but since you&apos;ve seen it, you cannot <em>“unsee”</em> it.
+          </p>
+          <p align="center">
+            <img
+              src={Images.imgWinnieThePooh}
+              alt="Pooh in the Clouds"
+              className="responsive"
+            />
+            <br />
+            <strong>Winnie the Pooh in the clouds</strong>
+          </p>
+          <p align="center">
+            <img
+              src={Images.imgFaceInBark}
+              alt="Face in the tree bark"
+              className="responsive"
+            />
+            <br />
+            <strong>Face in the tree bark</strong>
+          </p>
+        </p>
+        <p>
+          This is referred to as{" "}
+          <strong>
+            <em>“Pareidolia”</em>
+          </strong>
+          . Pareidolia is defined as
+          <strong>
+            <em>
+              “the tendency to perceive a specific, often meaningful image in a
+              random or ambiguous visual pattern.”
+            </em>
+          </strong>
+          Pareidolia is a type of Apophenia, or rather a visual type of
+          apophenia. In Miller&apos;s case, the number 1843 appears constantly
+          in his proofs and has convinced him and others who believed him that
+          the Bible points to this date. Even when the date failed to pass, they
+          reckoned they must&apos;ve just had an error in their calculation.
+          After 1843 came and went, that&apos;s when they realized that they had
+          miscalculated because they failed to take into account that there was
+          no year zero in the calendar. Unlike real numbers in mathematics, if
+          you subtract 1 year from 1 BC, you will get 1 AD instead of 0 AD. So
+          that&apos;s what Miller did, he added 1 to 1843 to correct it and
+          that&apos;s how he got to 1844.
+        </p>
+        <p align="center">
+          <img
+            src={Images.img1Bc1Ad}
+            alt="No year zero"
+            className="responsive"
+          />
+          <br />
+          <strong>No year zero</strong>
+        </p>
       </div>
     </div>
   );
