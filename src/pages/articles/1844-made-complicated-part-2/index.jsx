@@ -3,8 +3,8 @@ import Images from "../../../assets/images";
 function Article1844Part2() {
   return (
     <div id="articles">
-      <div className="title">1844 Made Complicated (Part 2) </div>
       <div className="body-content">
+        <h1 className="title">1844 Made Complicated (Part 2) </h1>
         <h2>Evolution of the 1844 doctrine</h2>
         <p>
           The 1844 doctrine or Sanctuary doctrine of the Seventh-day Adventists
@@ -268,7 +268,6 @@ function Article1844Part2() {
           />
           <br />
           <strong>360-day calendar vs 365-day calendar</strong>
-          &nbsp;<em>(4 years)</em>
         </p>
         <p>
           For example, a 360-day calendar year will be 5 less days than a
@@ -284,6 +283,7 @@ function Article1844Part2() {
             src={Images.img360vs365LeapYear}
             alt="360-day vs 365-day calendar (leap year)"
             border="1"
+            className="responsive"
           />
           <br />
           &nbsp;<strong>360-day calendar vs 365-day calendar</strong>

@@ -6,12 +6,12 @@ import "../style.css";
 function Article1844Part1() {
   return (
     <div id="articles">
-      <div className="title">1844 Made Complicated (Part 1) </div>
-      <div className="subtitle">
-        Examining how 1844 could be the Second Coming, Cleansing of the Heavenly
-        Sanctuary or a Nonevent
-      </div>
       <div className="body-content">
+        <h1 className="title">1844 Made Complicated (Part 1) </h1>
+        <h3 className="subtitle">
+          Examining how 1844 could be the Second Coming, Cleansing of the
+          Heavenly Sanctuary or a Nonevent
+        </h3>
         <p>
           In Douglas Adams&apos; popular sci-fi novel titled The
           Hitchhiker&apos;s Guide to the Galaxy, a group of highly intelligent
