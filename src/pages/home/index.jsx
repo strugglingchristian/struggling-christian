@@ -158,6 +158,7 @@ function FeaturedContent() {
           </div>
         </Col>
       </Row>
+      <hr />
     </>
   );
 }
