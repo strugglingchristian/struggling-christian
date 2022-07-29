@@ -12,6 +12,9 @@ import "./style.css";
 function FeaturedContent() {
   return (
     <>
+      <Row className="featured px-0 pb-3">
+        <h1>Featured Articles</h1>
+      </Row>
       <Row className="pb-4">
         <Col
           xxl={3}
