@@ -108,3 +108,7 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+.center-text {
+  text-align: center !important;
+}

@@ -159,12 +159,36 @@ function FeaturedContent() {
   );
 }
 
+function FeaturedVideo() {
+  return (
+    <Row className="featured px-0">
+      <h1>Featured Video</h1>
+      <div className="video">
+        <iframe
+          className="video"
+          frameBorder="0"
+          title="featured-video"
+          src="https://www.youtube.com/embed/oQspNNcvqEU"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope;"
+          allowFullScreen
+        />
+      </div>
+      <div className="title center-text">
+        Should Tithing be Practiced Today?
+      </div>
+    </Row>
+  );
+}
+
 function Home() {
   return (
     <div id="home">
       <Container fluid>
         <Row className="featured-content pt-0 px-0">
           <FeaturedContent />
+        </Row>
+        <Row className="featured-content pt-0 px-0">
+          <FeaturedVideo />
         </Row>
       </Container>
     </div>
