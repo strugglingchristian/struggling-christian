@@ -17,6 +17,9 @@ import imgMindblown from "./mindblown.jpeg";
 import img457StartingDate from "./457bc-starting-date.png";
 import imgWinnieThePooh from "./pooh-in-clouds.jpeg";
 import imgFaceInBark from "./face-in-bark.jpeg";
+import imgJosephSmith from "./joseph-smith.jpg";
+import imgEGW from "./egw.jpg";
+import imgMaryBakerEddy from "./mary-baker-eddy.jpeg";
 
 const Images = {
   img1Bc1Ad,
@@ -37,7 +40,10 @@ const Images = {
   imgMindblown,
   img457StartingDate,
   imgWinnieThePooh,
-  imgFaceInBark
+  imgFaceInBark,
+  imgJosephSmith,
+  imgEGW,
+  imgMaryBakerEddy
 };
 
 export default Images;

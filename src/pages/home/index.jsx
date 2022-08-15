@@ -1,4 +1,5 @@
-import { Container, Row, Col } from "react-bootstrap";
+/* eslint-disable */
+import { Container, Row, Col, Carousel } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import milleriteChart from "../../assets/images/1844-millerite-chart-old.jpg";
@@ -7,6 +8,7 @@ import egwPhoto from "../../assets/images/egw.jpg";
 import egwPhotoLandscape from "../../assets/images/egw-landscape.png";
 import newsClipping1843 from "../../assets/images/1843-news-clipping.jpg";
 import newsClipping1843Landscape from "../../assets/images/1843-header-landscape.png";
+import Images from "../../assets/images";
 import "./style.css";
 
 function FeaturedContent() {
@@ -163,24 +165,106 @@ function FeaturedContent() {
   );
 }
 
-function FeaturedVideo() {
+function FeaturedProphets() {
   return (
-    <Row className="featured px-0">
-      <h1>Featured Video</h1>
-      <div className="video">
-        <iframe
-          className="video"
-          frameBorder="0"
-          title="featured-video"
-          src="https://www.youtube.com/embed/oQspNNcvqEU"
-          allow="accelerometer; autoplay; encrypted-media; gyroscope;"
-          allowFullScreen
-        />
-      </div>
-      <div className="title center-text">
-        Should Tithing be Practiced Today?
-      </div>
-    </Row>
+    <>
+      <Row className="featured px-0">
+        <h1>Featured Prophets</h1>
+      </Row>
+      <Row className="">
+        <Col>
+          <div className="preview-image">
+            <img src={Images.imgJosephSmith} alt="Joseph Smith" />
+          </div>
+        </Col>
+        <Col>
+          <div className="preview-image">
+            <img src={Images.imgEGW} alt="Ellen G. White" />
+          </div>
+        </Col>
+        <Col>
+          <div className="preview-image">
+            <img src={Images.imgMaryBakerEddy} alt="Mary Baker Eddy" />
+          </div>
+        </Col>
+      </Row>
+    </>
+  );
+}
+
+function FeaturedVideos() {
+  const nextIcon = (
+    <span
+      aria-hidden="true"
+      className="carousel-control-next-icon show-border"
+    />
+  );
+
+  const prevIcon = (
+    <span
+      aria-hidden="true"
+      className="carousel-control-prev-icon show-border"
+    />
+  );
+  return (
+    <>
+      <Row className="featured px-0">
+        <h1>Featured Videos</h1>
+      </Row>
+      <Carousel interval={null} nextIcon={nextIcon} prevIcon={prevIcon}>
+        <Carousel.Item>
+          <div className="carousel-container">
+            <center>
+              <h3>Should Tithing be Practiced Today?</h3>
+            </center>
+            <div className="video">
+              <iframe
+                className="video"
+                frameBorder="0"
+                title="featured-video"
+                src="https://www.youtube.com/embed/oQspNNcvqEU"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope;"
+                allowFullScreen
+              />
+            </div>
+          </div>
+        </Carousel.Item>
+        <Carousel.Item>
+          <div className="carousel-container">
+            <center>
+              <h3>Ellen G. White - A Psychobiography?</h3>
+            </center>
+            <div className="video">
+              <iframe
+                className="video"
+                frameBorder="0"
+                title="featured-video"
+                src="https://www.youtube.com/embed/vWSqm1B7NZI"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope;"
+                allowFullScreen
+              />
+            </div>
+          </div>
+        </Carousel.Item>
+        <Carousel.Item>
+          <div className="carousel-container">
+            <center>
+              <h3>The Sunday Law That Never Was</h3>
+            </center>
+            <div className="video">
+              <iframe
+                className="video"
+                frameBorder="0"
+                title="featured-video"
+                src="https://www.youtube.com/embed/Hv7z2JqsGTM"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope;"
+                allowFullScreen
+              />
+            </div>
+          </div>
+        </Carousel.Item>
+      </Carousel>
+    </>
   );
 }
 
@@ -192,7 +276,7 @@ function Home() {
           <FeaturedContent />
         </Row>
         <Row className="featured-content pt-0 px-0">
-          <FeaturedVideo />
+          <FeaturedVideos />
         </Row>
       </Container>
     </div>
