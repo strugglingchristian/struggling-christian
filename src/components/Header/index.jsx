@@ -5,12 +5,12 @@ function Header() {
   return (
     <Container>
       <Row className="header">
-        <Col xxl={2} md={0} className="d-none d-md-block">
+        <Col xl={2} md={0} className="d-none d-md-block">
           &nbsp;
         </Col>
-        <Col md={12} xxl={8} xs={12}>
+        <Col md={12} xl={8} xs={12}>
           <Row className="py-0 my-0">
-            <Col xxl={7} md={6} xs={8}>
+            <Col xl={7} md={6} xs={8}>
               <Row className="header-title">
                 <Col className="d-flex">Struggling Christian</Col>
               </Row>
@@ -20,7 +20,7 @@ function Header() {
                 </Col>
               </Row>
             </Col>
-            <Col xxl={5} md={6} xs={4} className="d-flex justify-content-end">
+            <Col xl={5} md={6} xs={4} className="d-flex justify-content-end">
               <Navbar
                 className="color-nav p-0"
                 collapseOnSelect
@@ -45,7 +45,7 @@ function Header() {
             </Col>
           </Row>
         </Col>
-        <Col xxl={2} md={0} className="d-none d-md-block">
+        <Col xl={2} md={0} className="d-none d-md-block">
           &nbsp;
         </Col>
       </Row>
