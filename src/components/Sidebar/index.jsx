@@ -97,13 +97,21 @@ function YoutubeChannelsSidebar() {
         </a>
       </div>
       <div className="sidebar-title">
-        {" "}
         <a
           target="_blank"
           href="https://www.youtube.com/c/NakedBible/videos"
           rel="noreferrer"
         >
           Naked Bible
+        </a>
+      </div>
+      <div className="sidebar-title">
+        <a
+          target="_blank"
+          href="https://www.youtube.com/c/ProlifeAndrew/videos"
+          rel="noreferrer"
+        >
+          ProLife Andrew
         </a>
       </div>
     </div>
