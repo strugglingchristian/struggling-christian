@@ -1,11 +1,20 @@
-import { Row } from "react-bootstrap";
-
 function Articles() {
   return (
     <div id="articles">
-      <Row className="featured px-0 pb-3">
-        <h1>Articles</h1>
-      </Row>
+      <div className="body-content">
+        <h1 className="title">Articles</h1>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere
+          enim eu accumsan pulvinar. Mauris sagittis vestibulum nisl, molestie
+          fringilla velit eleifend id. Duis a metus dictum, imperdiet tellus
+          vel, auctor nisl. Phasellus et magna blandit, tincidunt lectus ut,
+          vehicula nisi. Suspendisse a sodales massa, convallis semper odio.
+          Praesent vitae diam purus. Vestibulum convallis in turpis elementum
+          fermentum. Sed eget risus ullamcorper, dignissim ipsum at, blandit
+          neque. Donec rhoncus euismod nisl in faucibus. Integer sit amet ligula
+          erat. Quisque ac nisl in nibh tincidunt pulvinar.
+        </p>
+      </div>
     </div>
   );
 }

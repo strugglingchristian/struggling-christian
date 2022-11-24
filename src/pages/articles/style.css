@@ -9,7 +9,6 @@
     font-size: 40px;
     line-height: 46px;
     font-weight: bold;
-    margin: 10px 10px;
     font-family: "RalewayBold";
   }
 
@@ -68,8 +67,8 @@
   }
 
   .body-content h1.title {
-    font-size: 48px;
-    line-height: 54px;
+    font-size: 40px;
+    line-height: 46px;
   }
 
   .body-content h2 {

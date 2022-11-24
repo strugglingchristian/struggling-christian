@@ -146,7 +146,7 @@ function FeaturedContent() {
             <div className="teaser">
               <Link to="/coming-soon">
                 Ellen G. White is believed by majority of Seventh-day Adventists
-                as a prophet. She is liked to a modern-day Elijah or John the
+                as a prophet. She is likened to a modern-day Elijah or John the
                 Baptist who heralded the First Advent of the Messiah...
               </Link>
             </div>
