@@ -1,3 +1,6 @@
+import { Row, Col } from "react-bootstrap";
+import { Link } from "react-router-dom";
+
 function DubiousDoctrines() {
   return (
     <div id="dubious">
@@ -14,6 +17,135 @@ function DubiousDoctrines() {
           neque. Donec rhoncus euismod nisl in faucibus. Integer sit amet ligula
           erat. Quisque ac nisl in nibh tincidunt pulvinar.
         </p>
+        <div>
+          <Row>
+            <Col xs={12} md={6}>
+              <h3>
+                <Link to="/coming-soon">Seventh-day Adventists (8)</Link>
+              </h3>
+              <ul>
+                <li>
+                  <Link to="/coming-soon">
+                    Authority of Ellen G. White as a prophet
+                  </Link>
+                </li>
+                <Link to="/coming-soon">
+                  <li>State of the Dead (Soul Sleep)</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>Investigate Judgment</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>
+                    Sabbath as the Seal of God/ Sunday as Mark of the Beast
+                  </li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>Strict obedience to food laws (but not kosher)</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>Tithing</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>The Archangel Michael is Jesus</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>More...</li>
+                </Link>
+              </ul>
+            </Col>
+            <Col xs={12} md={6}>
+              <Link to="/coming-soon">
+                <h3>Latter-Day Saints (10)</h3>
+              </Link>
+              <ul>
+                <Link to="/coming-soon">
+                  <li>Authority of Joseph Smith as a prophet</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>Inerrancy of the Book of Mormon</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>Mormon Multiverse (Multiple worlds and gods)</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>The Heavenly Father has flesh and blood</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>
+                    The Heavenly Father physically impregnated the virgin Mary
+                  </li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>Tithing</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>God lives on the planet Kolob</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>More...</li>
+                </Link>
+              </ul>
+            </Col>
+          </Row>
+          <Row>
+            <Col xs={12} md={6}>
+              <h3>
+                <Link to="/coming-soon">Jehovah&apos;s Witnesses (8)</Link>
+              </h3>
+              <ul>
+                <li>
+                  <Link to="/coming-soon">
+                    The Holy Spirit is not a person but an impersonal force
+                  </Link>
+                </li>
+                <Link to="/coming-soon">
+                  <li>
+                    Jehovah&apos; witnesses believe that getting a blood
+                    transfusion is sinful
+                  </li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>Invisible Second Coming</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>The Archangel Michael is Jesus</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>More...</li>
+                </Link>
+              </ul>
+            </Col>
+            <Col xs={12} md={6}>
+              <Link to="/coming-soon">
+                <h3>Iglesia Ni Cristo (10)</h3>
+              </Link>
+              <ul>
+                <Link to="/coming-soon">
+                  <li>
+                    Salvation belongs only to the members of the Iglesia Ni
+                    Cristo
+                  </li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>Jesus Christ is just a man and not God</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>Felix Manalo is The Last Messenger of God</li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>
+                    The Iglesia Ni Cristo expects total submission from
+                    it&apos;s members
+                  </li>
+                </Link>
+                <Link to="/coming-soon">
+                  <li>More...</li>
+                </Link>
+              </ul>
+            </Col>
+          </Row>
+        </div>
       </div>
     </div>
   );
