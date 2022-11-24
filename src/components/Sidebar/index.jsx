@@ -35,8 +35,8 @@ function BibleStudyResourcesSidebar() {
         </a>
       </div>
       <div className="sidebar-title">
-        <a target="_blank" href="https://www.nonsda.org/" rel="noreferrer">
-          Christian Classics Ethereal Library
+        <a target="_blank" href="https://ccel.org/fathers" rel="noreferrer">
+          Christian Classics Ethereal Library (<em>Early Church Fathers</em>)
         </a>
       </div>
     </div>
@@ -60,6 +60,15 @@ function YoutubeChannelsSidebar() {
   return (
     <div className="sidebar">
       <div className="sidebar-header">RECOMMENDED CHANNELS</div>
+      <div className="sidebar-title">
+        <a
+          target="_blank"
+          href="https://www.youtube.com/@strugglingchristian"
+          rel="noreferrer"
+        >
+          Struggling Christian (<em>Filipino</em>)
+        </a>
+      </div>
       <div className="sidebar-title">
         <a
           target="_blank"
