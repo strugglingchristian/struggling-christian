@@ -20,6 +20,11 @@ import imgFaceInBark from "./face-in-bark.jpeg";
 import imgJosephSmith from "./joseph-smith.jpg";
 import imgEGW from "./egw.jpg";
 import imgMaryBakerEddy from "./mary-baker-eddy.jpeg";
+import imgNewsClipping1843Landscape from "./1843-header-landscape.png";
+import imgNewsClipping1843 from "./1843-news-clipping.jpg";
+import imgEgwLandscape from "./egw-landscape.png";
+import imgMilleriteChartLandscape from "./miller-chart-landscape.png";
+import imgMilleriteChart from "./1844-millerite-chart-old.jpg";
 
 const Images = {
   img1Bc1Ad,
@@ -43,7 +48,12 @@ const Images = {
   imgFaceInBark,
   imgJosephSmith,
   imgEGW,
-  imgMaryBakerEddy
+  imgMaryBakerEddy,
+  imgNewsClipping1843,
+  imgNewsClipping1843Landscape,
+  imgEgwLandscape,
+  imgMilleriteChartLandscape,
+  imgMilleriteChart
 };
 
 export default Images;

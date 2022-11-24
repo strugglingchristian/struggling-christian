@@ -2,12 +2,6 @@
 import { Container, Row, Col, Carousel } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
-import milleriteChart from "../../assets/images/1844-millerite-chart-old.jpg";
-import milleriteChartLandscape from "../../assets/images/miller-chart-landscape.png";
-import egwPhoto from "../../assets/images/egw.jpg";
-import egwPhotoLandscape from "../../assets/images/egw-landscape.png";
-import newsClipping1843 from "../../assets/images/1843-news-clipping.jpg";
-import newsClipping1843Landscape from "../../assets/images/1843-header-landscape.png";
 import Images from "../../assets/images";
 import "./style.css";
 
@@ -26,10 +20,13 @@ function FeaturedContent() {
           <div className="preview-container">
             <Link to="/articles/1844-made-complicated-part-1">
               <div className="preview-image d-sm-block d-xl-none">
-                <img src={newsClipping1843Landscape} alt="1843 news" />
+                <img
+                  src={Images.imgNewsClipping1843Landscape}
+                  alt="1843 news"
+                />
               </div>
               <div className="preview-image d-none d-xl-block">
-                <img src={newsClipping1843} alt="1843 news" />
+                <img src={Images.imgNewsClipping1843} alt="1843 news" />
               </div>
             </Link>
           </div>
@@ -77,10 +74,13 @@ function FeaturedContent() {
           <div className="preview-container">
             <Link to="/articles/1844-made-complicated-part-2">
               <div className="preview-image d-sm-block d-xl-none">
-                <img src={milleriteChartLandscape} alt="Millerite Chart" />
+                <img
+                  src={Images.imgMilleriteChartLandscape}
+                  alt="Millerite Chart"
+                />
               </div>
               <div className="preview-image d-none d-xl-block">
-                <img src={milleriteChart} alt="Millerite Chart" />
+                <img src={Images.imgMilleriteChart} alt="Millerite Chart" />
               </div>
             </Link>
           </div>
@@ -123,12 +123,12 @@ function FeaturedContent() {
           className="d-flex justify-content-center p-md-0 p-sm-5"
         >
           <div className="preview-container">
-            <Link to="/articles/egw-true-prophet">
+            <Link to="/coming-soon">
               <div className="preview-image d-none d-xl-block">
-                <img src={egwPhoto} alt="Ellen G. White" />
+                <img src={Images.imgEGW} alt="Ellen G. White" />
               </div>
               <div className="preview-image d-sm-block d-xl-none">
-                <img src={egwPhotoLandscape} alt="Ellen G. White" />
+                <img src={Images.imgEgwLandscape} alt="Ellen G. White" />
               </div>
             </Link>
           </div>
