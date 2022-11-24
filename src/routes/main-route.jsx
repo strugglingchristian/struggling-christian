@@ -4,6 +4,7 @@ import Home from "../pages/home";
 import About from "../pages/about/about";
 import DubiousDoctrines from "../pages/dubious-doctrines/dubiousDoctrines";
 import ArticlesRoute from "./articles-route";
+import ComingSoon from "../pages/coming-soon";
 
 function MainRoute() {
   return (
@@ -13,6 +14,7 @@ function MainRoute() {
         <Route path="/dubious-doctrines" element={<DubiousDoctrines />} />
         <Route path="/articles/*" element={<ArticlesRoute />} />
         <Route path="/about" element={<About />} />
+        <Route path="/coming-soon" element={<ComingSoon />} />
       </Route>
     </Routes>
   );

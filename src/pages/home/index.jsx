@@ -136,24 +136,22 @@ function FeaturedContent() {
         <Col xxl={9} xs={12} className="d-flex justify-content-evenly p-0">
           <div className="preview-text">
             <div className="title">
-              <Link to="/articles/egw-true-prophet">
-                Is Ellen G. White A True Prophet?
-              </Link>
+              <Link to="/coming-soon">Is Ellen G. White A True Prophet?</Link>
             </div>
             <div className="subtitle">
-              <Link to="/articles/egw-true-prophet">
+              <Link to="/coming-soon">
                 Lunatic, Liar or Lord&apos;s Prophet
               </Link>
             </div>
             <div className="teaser">
-              <Link to="/articles/egw-true-prophet">
+              <Link to="/coming-soon">
                 Ellen G. White is believed by majority of Seventh-day Adventists
                 as a prophet. She is liked to a modern-day Elijah or John the
                 Baptist who heralded the First Advent of the Messiah...
               </Link>
             </div>
             <div className="read-more">
-              <Button variant="success" href="/articles/egw-true-prophet">
+              <Button variant="success" href="/coming-soon">
                 Read more
               </Button>
             </div>

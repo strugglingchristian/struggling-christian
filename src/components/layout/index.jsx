@@ -14,10 +14,10 @@ function Layout() {
       <Row className="content-row">
         <Container fluid>
           <Row className="pb-3">
-            <Col xl={3} xs={12} className="d-none d-xl-block">
+            <Col xl={2} xs={12} className="d-none d-xl-block">
               &nbsp;
             </Col>
-            <Col xl={5} xs={12} className="px-0 mx-0">
+            <Col xl={6} xs={12} className="px-0 mx-0">
               <Outlet />
             </Col>
             <Col xl={2} xs={12}>

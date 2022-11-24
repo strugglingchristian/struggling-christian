@@ -1,9 +1,11 @@
-import "./style.css";
+import { Row } from "react-bootstrap";
 
 function Articles() {
   return (
     <div id="articles">
-      <div className="title">Articles</div>
+      <Row className="featured px-0 pb-3">
+        <h1>Articles</h1>
+      </Row>
     </div>
   );
 }

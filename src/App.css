@@ -10,11 +10,11 @@ body {
   #home,
   #articles,
   #dubious,
+  #coming-soon,
   #about {
     margin-top: 20px;
     line-height: 1.5;
     padding: 0 15px;
-    border-bottom: 1px dashed #363636;
     margin-bottom: 10px;
   }
 
