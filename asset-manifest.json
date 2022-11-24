@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.051b13c3.css",
-    "main.js": "/static/js/main.b4910865.js",
+    "main.js": "/static/js/main.fc5ffd7f.js",
     "static/js/787.d441f0b4.chunk.js": "/static/js/787.d441f0b4.chunk.js",
     "static/media/miller-chart-landscape.png": "/static/media/miller-chart-landscape.e8883553c7701f3e80e5.png",
     "static/media/1844-sda-chart.jpeg": "/static/media/1844-sda-chart.3246edf4342820d6b37b.jpeg",
@@ -30,11 +30,11 @@
     "static/media/egw-landscape.png": "/static/media/egw-landscape.9c09110feeab9805a6f9.png",
     "index.html": "/index.html",
     "main.051b13c3.css.map": "/static/css/main.051b13c3.css.map",
-    "main.b4910865.js.map": "/static/js/main.b4910865.js.map",
+    "main.fc5ffd7f.js.map": "/static/js/main.fc5ffd7f.js.map",
     "787.d441f0b4.chunk.js.map": "/static/js/787.d441f0b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.051b13c3.css",
-    "static/js/main.b4910865.js"
+    "static/js/main.fc5ffd7f.js"
   ]
 }
