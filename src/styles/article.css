@@ -30,6 +30,46 @@
     font-style: italic;
     font-family: "RalewayItalic";
   }
+
+  ul.list-link li {
+    padding: 4px 0;
+    font-weight: bold;
+  }
+
+  .link-header a {
+    text-decoration: none;
+    color: #d33656;
+    font-weight: bold;
+  }
+
+  .link-header a:hover {
+    text-decoration: underline;
+    color: #edabb8;
+    transition: 0.3s;
+  }
+
+  .list-link a {
+    text-decoration: none;
+    color: #d33656;
+  }
+
+  .list-link a:visited {
+    color: #333333;
+  }
+
+  .list-link a:hover {
+    text-decoration: underline;
+    color: #ccc;
+    transition: 0.3s;
+  }
+
+  .link-title {
+    border: 1px solid gold;
+  }
+
+  .top-spacer {
+    margin-top: 30px;
+  }
 }
 
 @media only screen and (min-width: 480px) {

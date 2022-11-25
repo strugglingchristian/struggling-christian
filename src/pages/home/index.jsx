@@ -3,7 +3,7 @@ import { Container, Row, Col, Carousel } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import Images from "../../assets/images";
-import "./style.css";
+import "../../styles/home.css";
 
 function FeaturedContent() {
   return (

@@ -17,18 +17,16 @@ function DubiousDoctrines() {
           neque. Donec rhoncus euismod nisl in faucibus. Integer sit amet ligula
           erat. Quisque ac nisl in nibh tincidunt pulvinar.
         </p>
-        <div>
+        <div className="top-spacer">
           <Row>
             <Col xs={12} md={6}>
-              <h3>
+              <h3 className="link-header">
                 <Link to="/coming-soon">Seventh-day Adventists (8)</Link>
               </h3>
-              <ul>
-                <li>
-                  <Link to="/coming-soon">
-                    Authority of Ellen G. White as a prophet
-                  </Link>
-                </li>
+              <ul className="list-link">
+                <Link to="/coming-soon">
+                  <li>Authority of Ellen G. White as a prophet</li>
+                </Link>
                 <Link to="/coming-soon">
                   <li>State of the Dead (Soul Sleep)</li>
                 </Link>
@@ -55,10 +53,10 @@ function DubiousDoctrines() {
               </ul>
             </Col>
             <Col xs={12} md={6}>
-              <Link to="/coming-soon">
-                <h3>Latter-Day Saints (10)</h3>
-              </Link>
-              <ul>
+              <h3 className="link-header">
+                <Link to="/coming-soon">Latter-Day Saints (10)</Link>
+              </h3>
+              <ul className="list-link">
                 <Link to="/coming-soon">
                   <li>Authority of Joseph Smith as a prophet</li>
                 </Link>
@@ -90,15 +88,15 @@ function DubiousDoctrines() {
           </Row>
           <Row>
             <Col xs={12} md={6}>
-              <h3>
+              <h3 className="link-header">
                 <Link to="/coming-soon">Jehovah&apos;s Witnesses (8)</Link>
               </h3>
-              <ul>
-                <li>
-                  <Link to="/coming-soon">
+              <ul className="list-link">
+                <Link to="/coming-soon">
+                  <li>
                     The Holy Spirit is not a person but an impersonal force
-                  </Link>
-                </li>
+                  </li>
+                </Link>
                 <Link to="/coming-soon">
                   <li>
                     Jehovah&apos; witnesses believe that getting a blood
@@ -117,10 +115,10 @@ function DubiousDoctrines() {
               </ul>
             </Col>
             <Col xs={12} md={6}>
-              <Link to="/coming-soon">
-                <h3>Iglesia Ni Cristo (10)</h3>
-              </Link>
-              <ul>
+              <h3 className="link-header">
+                <Link to="/coming-soon">Iglesia Ni Cristo (10)</Link>
+              </h3>
+              <ul className="list-link">
                 <Link to="/coming-soon">
                   <li>
                     Salvation belongs only to the members of the Iglesia Ni
