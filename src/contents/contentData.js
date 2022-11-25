@@ -38,6 +38,15 @@ export const featuredArticlesList = [
     teaser: `Ellen G. White is believed by majority of Seventh-day Adventists
     as a prophet. She is likened to a modern-day Elijah or John the
     Baptist who heralded the First Advent of the Messiah...`
+  },
+  {
+    title: "Dr. Tim Jennings and the Woke Gospel",
+    url: "/coming-soon",
+    imgWeb: Images.imgComeAndWoke,
+    imgMobile: Images.imgComeAndWokeLandscape,
+    imgAlt: "Dr. Tim Jennings",
+    subtitle: `Examinining and understanding the "Woke Gospel" from Come and Reason Ministries`,
+    teaser: `Dr. Tim Jennings is preaching a gospel that is full of love, compassion and tolerance. What could be wrong with love, right? After all, as the saying goes, "Love is all we need." But...`
   }
 ];
 
@@ -79,5 +88,14 @@ export const allArticlesList = [
     teaser: `Ellen G. White is believed by majority of Seventh-day Adventists
     as a prophet. She is likened to a modern-day Elijah or John the
     Baptist who heralded the First Advent of the Messiah...`
+  },
+  {
+    title: "Dr. Tim Jennings and the Woke Gospel",
+    url: "/coming-soon",
+    imgWeb: Images.imgComeAndWoke,
+    imgMobile: Images.imgComeAndWokeLandscape,
+    imgAlt: "Dr. Tim Jennings",
+    subtitle: `Examinining and understanding the "Woke Gospel" from Come and Reason Ministries`,
+    teaser: `Dr. Tim Jennings is preaching a gospel that is full of love, compassion and tolerance. What could be wrong with love, right? After all, as the saying goes, "Love is all we need." But...`
   }
 ];

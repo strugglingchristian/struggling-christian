@@ -25,6 +25,8 @@ import imgNewsClipping1843 from "./1843-news-clipping.jpg";
 import imgEgwLandscape from "./egw-landscape.png";
 import imgMilleriteChartLandscape from "./miller-chart-landscape.png";
 import imgMilleriteChart from "./1844-millerite-chart-old.jpg";
+import imgComeAndWoke from "./come-and-woke.png";
+import imgComeAndWokeLandscape from "./come-and-woke-landscape.png";
 
 const Images = {
   img1Bc1Ad,
@@ -53,7 +55,9 @@ const Images = {
   imgNewsClipping1843Landscape,
   imgEgwLandscape,
   imgMilleriteChartLandscape,
-  imgMilleriteChart
+  imgMilleriteChart,
+  imgComeAndWoke,
+  imgComeAndWokeLandscape
 };
 
 export default Images;
