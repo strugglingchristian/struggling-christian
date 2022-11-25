@@ -26,17 +26,6 @@ body {
     object-fit: cover;
   }
 
-  #articles a {
-    color: #198754;
-    text-decoration: none;
-  }
-
-  #articles a:hover {
-    color: #0066b2;
-    text-decoration: underline;
-    transition: 0.3s;
-  }
-
   #home p,
   #articles p,
   #dubious p,

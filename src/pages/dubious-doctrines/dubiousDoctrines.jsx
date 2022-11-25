@@ -31,7 +31,7 @@ function DubiousDoctrines() {
                   <li>State of the Dead (Soul Sleep)</li>
                 </Link>
                 <Link to="/coming-soon">
-                  <li>Investigate Judgment</li>
+                  <li>Investigative Judgment (1844)</li>
                 </Link>
                 <Link to="/coming-soon">
                   <li>
