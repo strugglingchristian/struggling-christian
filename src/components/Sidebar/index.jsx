@@ -1,6 +1,5 @@
 import { Container, Row, Col } from "react-bootstrap";
-
-import "./style.css";
+import "../../styles/sidebar.css";
 
 function BibleStudyResourcesSidebar() {
   return (

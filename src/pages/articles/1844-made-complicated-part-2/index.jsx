@@ -1,4 +1,5 @@
 import Images from "../../../assets/images";
+import "../../../styles/article.css";
 
 function Article1844Part2() {
   return (

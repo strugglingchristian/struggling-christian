@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import Images from "../../../assets/images";
-
-import "../style.css";
+import "../../../styles/article.css";
 
 function Article1844Part1() {
   return (
