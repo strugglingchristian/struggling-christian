@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee9d9ad0.css",
-    "main.js": "/static/js/main.8029f6ad.js",
+    "main.css": "/static/css/main.dee9d1bc.css",
+    "main.js": "/static/js/main.5c4eb68d.js",
     "static/js/787.d441f0b4.chunk.js": "/static/js/787.d441f0b4.chunk.js",
     "static/media/come-and-woke-landscape.png": "/static/media/come-and-woke-landscape.5d201c4b70d4994cec3b.png",
     "static/media/miller-chart-landscape.png": "/static/media/miller-chart-landscape.e8883553c7701f3e80e5.png",
@@ -31,12 +31,12 @@
     "static/media/mindblown.jpeg": "/static/media/mindblown.a5fb686b9b24fb850423.jpeg",
     "static/media/egw-landscape.png": "/static/media/egw-landscape.9c09110feeab9805a6f9.png",
     "index.html": "/index.html",
-    "main.ee9d9ad0.css.map": "/static/css/main.ee9d9ad0.css.map",
-    "main.8029f6ad.js.map": "/static/js/main.8029f6ad.js.map",
+    "main.dee9d1bc.css.map": "/static/css/main.dee9d1bc.css.map",
+    "main.5c4eb68d.js.map": "/static/js/main.5c4eb68d.js.map",
     "787.d441f0b4.chunk.js.map": "/static/js/787.d441f0b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee9d9ad0.css",
-    "static/js/main.8029f6ad.js"
+    "static/css/main.dee9d1bc.css",
+    "static/js/main.5c4eb68d.js"
   ]
 }
