@@ -30,7 +30,7 @@ export const featuredArticlesList = [
   },
   {
     title: "Is Ellen G. White A True Prophet?",
-    url: "/coming-soon",
+    url: "/articles/egw-true-prophet",
     imgWeb: Images.imgEGW,
     imgMobile: Images.imgEgwLandscape,
     imgAlt: "Ellen G. White",
@@ -41,7 +41,7 @@ export const featuredArticlesList = [
   },
   {
     title: "Dr. Tim Jennings and the Woke Gospel",
-    url: "/coming-soon",
+    url: "/articles/coming-soon",
     imgWeb: Images.imgComeAndWoke,
     imgMobile: Images.imgComeAndWokeLandscape,
     imgAlt: "Dr. Tim Jennings",
@@ -80,7 +80,7 @@ export const allArticlesList = [
   },
   {
     title: "Is Ellen G. White A True Prophet?",
-    url: "/coming-soon",
+    url: "/articles/egw-true-prophet",
     imgWeb: Images.imgEGW,
     imgMobile: Images.imgEgwLandscape,
     imgAlt: "Ellen G. White",
@@ -91,7 +91,7 @@ export const allArticlesList = [
   },
   {
     title: "Dr. Tim Jennings and the Woke Gospel",
-    url: "/coming-soon",
+    url: "/articles/coming-soon",
     imgWeb: Images.imgComeAndWoke,
     imgMobile: Images.imgComeAndWokeLandscape,
     imgAlt: "Dr. Tim Jennings",

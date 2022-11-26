@@ -4,7 +4,6 @@ import Home from "../pages/home";
 import About from "../pages/about/about";
 import DubiousDoctrinesRoute from "./dubious-doctrines-route";
 import ArticlesRoute from "./articles-route";
-import ComingSoon from "../pages/coming-soon";
 import Page404 from "../pages/404";
 
 function MainRoute() {
@@ -18,7 +17,6 @@ function MainRoute() {
         />
         <Route path="/articles/*" element={<ArticlesRoute />} />
         <Route path="/about" element={<About />} />
-        <Route path="/coming-soon" element={<ComingSoon />} />
         <Route path="*" element={<Page404 />} />
       </Route>
     </Routes>

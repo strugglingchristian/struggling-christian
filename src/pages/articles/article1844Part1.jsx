@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import Images from "../../../assets/images";
-import "../../../styles/article.css";
+import Images from "../../assets/images";
+import "../../styles/article.css";
 
 function Article1844Part1() {
   return (
