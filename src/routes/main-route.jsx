@@ -2,19 +2,24 @@ import { Routes, Route } from "react-router-dom";
 import Layout from "../components/layout";
 import Home from "../pages/home";
 import About from "../pages/about/about";
-import DubiousDoctrines from "../pages/dubious-doctrines/dubiousDoctrines";
+import DubiousDoctrinesRoute from "./dubious-doctrines-route";
 import ArticlesRoute from "./articles-route";
 import ComingSoon from "../pages/coming-soon";
+import Page404 from "../pages/404";
 
 function MainRoute() {
   return (
     <Routes>
       <Route path="/" element={<Layout />}>
         <Route index element={<Home />} />
-        <Route path="/dubious-doctrines" element={<DubiousDoctrines />} />
+        <Route
+          path="/dubious-doctrines/*"
+          element={<DubiousDoctrinesRoute />}
+        />
         <Route path="/articles/*" element={<ArticlesRoute />} />
         <Route path="/about" element={<About />} />
         <Route path="/coming-soon" element={<ComingSoon />} />
+        <Route path="*" element={<Page404 />} />
       </Route>
     </Routes>
   );
