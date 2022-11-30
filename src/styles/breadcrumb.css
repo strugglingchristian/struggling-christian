@@ -1,0 +1,38 @@
+@media only screen and (min-width: 320px) {
+  #breadcrumb {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100%;
+  }
+
+  #breadcrumb ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  #breadcrumb li {
+    float: left;
+  }
+
+  #breadcrumb li a {
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 0 5px;
+    text-decoration: none;
+  }
+  #breadcrumb li a:hover {
+    color: #0066b2;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+}
+
+@media only screen and (min-width: 768px) {
+}
+
+@media only screen and (min-width: 1300px) {
+}
