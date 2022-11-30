@@ -1,5 +1,4 @@
-/* eslint-disable */
-import { Row, Col } from "react-bootstrap";
+import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { allArticlesList } from "../../contents/contentData";
@@ -47,11 +46,15 @@ function Articles() {
   });
 
   return (
-    <div id="articles" className="featured-content">
-      <Row className="featured px-0 pb-3">
-        <h1>Articles</h1>
-      </Row>
-      {allArticles}
+    <div id="articles">
+      <Container fluid>
+        <Row className="featured-content pt-0 px-0">
+          <Row className="featured px-0 pb-3">
+            <h1>Articles</h1>
+          </Row>
+          {allArticles}
+        </Row>
+      </Container>
     </div>
   );
 }

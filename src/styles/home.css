@@ -126,6 +126,12 @@
     font-size: 20px;
     line-height: 28px;
   }
+
+  .preview-image img {
+    width: 420px;
+    height: 230px;
+    border-radius: 10px;
+  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -157,6 +163,12 @@
     width: 2rem;
     height: 2rem;
   }
+
+  .preview-image img {
+    width: 700px;
+    height: 383px;
+    border-radius: 10px;
+  }
 }
 
 @media only screen and (min-width: 1200px) {
@@ -176,7 +188,7 @@
   }
 }
 
-@media only screen and (min-width: 1400px) {
+@media only screen and (min-width: 1300px) {
   .featured-content {
     margin-bottom: 30px;
   }
