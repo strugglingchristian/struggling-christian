@@ -102,7 +102,7 @@ function BreadCrumb() {
         <ul>
           {crumbs.map((crumb) => {
             return (
-              <li>
+              <li key={crumb.title}>
                 <Link to={crumb.url}>{crumb.title} /</Link>
               </li>
             );

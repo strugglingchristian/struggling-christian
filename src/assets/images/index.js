@@ -27,6 +27,8 @@ import imgMilleriteChartLandscape from "./miller-chart-landscape.png";
 import imgMilleriteChart from "./1844-millerite-chart-old.jpg";
 import imgComeAndWoke from "./come-and-woke.png";
 import imgComeAndWokeLandscape from "./come-and-woke-landscape.png";
+import imgAbortionIsHealthCare from "./abortion-is-healthcare.png";
+import imgAbortionIsHealthCareLandscape from "./abortion-is-healthcare-landscape.png";
 
 const Images = {
   img1Bc1Ad,
@@ -57,7 +59,9 @@ const Images = {
   imgMilleriteChartLandscape,
   imgMilleriteChart,
   imgComeAndWoke,
-  imgComeAndWokeLandscape
+  imgComeAndWokeLandscape,
+  imgAbortionIsHealthCare,
+  imgAbortionIsHealthCareLandscape
 };
 
 export default Images;
