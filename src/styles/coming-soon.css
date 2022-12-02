@@ -1,0 +1,61 @@
+@media only screen and (min-width: 320px) {
+  .coming-soon {
+    height: 100%;
+    width: 100%;
+    padding-bottom: 20px;
+    background-image: url("../assets/images/under-construction.jpeg");
+    background-size: cover;
+  }
+
+  .coming-soon section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+
+  .coming-soon-title {
+    font-family: "RalewayBold";
+    font-size: xxx-large;
+    text-align: center;
+  }
+
+  .coming-soon .text-content {
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    font-size: large;
+    font-family: "RalewaySemiBold";
+    background: rgba(255, 255, 255, 0.6);
+  }
+
+  .coming-soon .text-content p {
+    margin: 25px 0;
+  }
+
+  .back-to-home {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (min-width: 480px) {
+}
+
+@media only screen and (min-width: 768px) {
+}
+
+@media only screen and (min-width: 1300px) {
+  .coming-soon {
+    height: 45%;
+  }
+
+  .coming-soon .text-content {
+    margin-top: 0;
+    font-size: larger;
+  }
+}
