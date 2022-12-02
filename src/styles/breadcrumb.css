@@ -26,6 +26,16 @@
   #breadcrumb li a:hover {
     color: #0066b2;
   }
+
+  #breadcrumb li a.active-link {
+    text-decoration: underline !important;
+  }
+
+  #breadcrumb li a::after {
+    content: " »";
+    color: "#000";
+    text-decoration: none !important;
+  }
 }
 
 @media only screen and (min-width: 480px) {

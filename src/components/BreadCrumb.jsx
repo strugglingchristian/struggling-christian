@@ -1,5 +1,4 @@
-/* eslint-disable */
-import { Link, useLocation } from "react-router-dom";
+import { NavLink, useLocation } from "react-router-dom";
 import "../styles/breadcrumb.css";
 
 const getBreadcrumbPath = (location) => {
@@ -103,7 +102,14 @@ function BreadCrumb() {
           {crumbs.map((crumb) => {
             return (
               <li key={crumb.title}>
-                <Link to={crumb.url}>{crumb.title} /</Link>
+                <NavLink
+                  to={crumb.url}
+                  className={({ isActive }) =>
+                    isActive ? "active-link" : undefined
+                  }
+                >
+                  {crumb.title}
+                </NavLink>
               </li>
             );
           })}

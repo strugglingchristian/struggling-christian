@@ -1,4 +1,5 @@
 import { Container, Row, Col, Navbar, Nav } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import "../../styles/header.css";
 
 function Header() {
@@ -32,12 +33,18 @@ function Header() {
                   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                   <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="dropdown-menu-end px-0">
-                      <Nav.Link href="/">Home</Nav.Link>
-                      <Nav.Link href="/dubious-doctrines">
+                      <Nav.Link as={Link} to="/">
+                        Home
+                      </Nav.Link>
+                      <Nav.Link as={Link} to="/dubious-doctrines">
                         Dubious Doctrines
                       </Nav.Link>
-                      <Nav.Link href="/articles">Articles</Nav.Link>
-                      <Nav.Link href="/about">About</Nav.Link>
+                      <Nav.Link as={Link} to="/articles">
+                        Articles
+                      </Nav.Link>
+                      <Nav.Link as={Link} to="/about">
+                        About
+                      </Nav.Link>
                     </Nav>
                   </Navbar.Collapse>
                 </Container>
