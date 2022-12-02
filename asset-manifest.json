@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc1b9d73.css",
-    "main.js": "/static/js/main.63bf2343.js",
+    "main.css": "/static/css/main.6594239d.css",
+    "main.js": "/static/js/main.e51ea90c.js",
     "static/js/787.d441f0b4.chunk.js": "/static/js/787.d441f0b4.chunk.js",
     "static/media/abortion-is-healthcare-landscape.png": "/static/media/abortion-is-healthcare-landscape.570f125b20e9482ee3e6.png",
     "static/media/come-and-woke-landscape.png": "/static/media/come-and-woke-landscape.5d201c4b70d4994cec3b.png",
@@ -34,12 +34,12 @@
     "static/media/mindblown.jpeg": "/static/media/mindblown.a5fb686b9b24fb850423.jpeg",
     "static/media/egw-landscape.png": "/static/media/egw-landscape.9c09110feeab9805a6f9.png",
     "index.html": "/index.html",
-    "main.cc1b9d73.css.map": "/static/css/main.cc1b9d73.css.map",
-    "main.63bf2343.js.map": "/static/js/main.63bf2343.js.map",
+    "main.6594239d.css.map": "/static/css/main.6594239d.css.map",
+    "main.e51ea90c.js.map": "/static/js/main.e51ea90c.js.map",
     "787.d441f0b4.chunk.js.map": "/static/js/787.d441f0b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc1b9d73.css",
-    "static/js/main.63bf2343.js"
+    "static/css/main.6594239d.css",
+    "static/js/main.e51ea90c.js"
   ]
 }
