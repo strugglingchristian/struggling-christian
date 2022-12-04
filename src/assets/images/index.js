@@ -29,6 +29,7 @@ import imgComeAndWoke from "./come-and-woke.png";
 import imgComeAndWokeLandscape from "./come-and-woke-landscape.png";
 import imgAbortionIsHealthCare from "./abortion-is-healthcare.png";
 import imgAbortionIsHealthCareLandscape from "./abortion-is-healthcare-landscape.png";
+import imgSafetyFirst from "./safety-first.png";
 
 const Images = {
   img1Bc1Ad,
@@ -61,7 +62,8 @@ const Images = {
   imgComeAndWoke,
   imgComeAndWokeLandscape,
   imgAbortionIsHealthCare,
-  imgAbortionIsHealthCareLandscape
+  imgAbortionIsHealthCareLandscape,
+  imgSafetyFirst
 };
 
 export default Images;
