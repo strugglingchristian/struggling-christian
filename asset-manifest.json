@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.95d407f3.css",
-    "main.js": "/static/js/main.c09e51f0.js",
+    "main.css": "/static/css/main.c3212f21.css",
+    "main.js": "/static/js/main.e79cd0f1.js",
     "static/js/787.d441f0b4.chunk.js": "/static/js/787.d441f0b4.chunk.js",
     "static/media/abortion-is-healthcare-landscape.png": "/static/media/abortion-is-healthcare-landscape.570f125b20e9482ee3e6.png",
     "static/media/come-and-woke-landscape.png": "/static/media/come-and-woke-landscape.5d201c4b70d4994cec3b.png",
@@ -20,6 +20,7 @@
     "static/media/42-meaning-of-life.png": "/static/media/42-meaning-of-life.918d3a44ba12a90ba008.png",
     "static/media/face-in-bark.jpeg": "/static/media/face-in-bark.406fd3372728ed73baea.jpeg",
     "static/media/1843-header-landscape.png": "/static/media/1843-header-landscape.a7499dedd5ec444fc14e.png",
+    "static/media/safety-first.png": "/static/media/safety-first.1c972bfc538ce6485c69.png",
     "static/media/joseph-smith.jpg": "/static/media/joseph-smith.c00d2a5e796bb3b9ea07.jpg",
     "static/media/board-calculation.jpeg": "/static/media/board-calculation.e84c42dfb08b46e91d96.jpeg",
     "static/media/under-construction.jpeg": "/static/media/under-construction.4495041c8beea6d90798.jpeg",
@@ -35,12 +36,12 @@
     "static/media/mindblown.jpeg": "/static/media/mindblown.a5fb686b9b24fb850423.jpeg",
     "static/media/egw-landscape.png": "/static/media/egw-landscape.9c09110feeab9805a6f9.png",
     "index.html": "/index.html",
-    "main.95d407f3.css.map": "/static/css/main.95d407f3.css.map",
-    "main.c09e51f0.js.map": "/static/js/main.c09e51f0.js.map",
+    "main.c3212f21.css.map": "/static/css/main.c3212f21.css.map",
+    "main.e79cd0f1.js.map": "/static/js/main.e79cd0f1.js.map",
     "787.d441f0b4.chunk.js.map": "/static/js/787.d441f0b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95d407f3.css",
-    "static/js/main.c09e51f0.js"
+    "static/css/main.c3212f21.css",
+    "static/js/main.e79cd0f1.js"
   ]
 }
