@@ -120,7 +120,7 @@ function About() {
           &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Then back to sin
           again.
         </p>
-        <p>Later. Rinse. Repeat.</p>
+        <p>Lather. Rinse. Repeat.</p>
         <p>
           After a while, this gets tiresome and it kind of makes me wonder
           whether I’ve been truly saved or not. I would like to believe I have
