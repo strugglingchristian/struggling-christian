@@ -112,14 +112,14 @@ function FeaturedVideos() {
         <Carousel.Item>
           <div className="carousel-container">
             <center>
-              <h3>Should Tithing be Practiced Today?</h3>
+              <h3>The Troublesome Legacy of 1844</h3>
             </center>
             <div className="video">
               <iframe
                 className="video"
                 frameBorder="0"
                 title="featured-video"
-                src="https://www.youtube.com/embed/oQspNNcvqEU"
+                src="https://www.youtube.com/embed/JF3LjYDriZY"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope;"
                 allowFullScreen
               />
