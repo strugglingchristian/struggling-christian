@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Images from "../../assets/images";
 import "../../styles/article.css";
 
@@ -950,6 +951,13 @@ function Article1844Part2() {
           />
           <br />
           <strong>No year zero</strong>
+        </p>
+        <p>
+          <em>
+            <h4>
+              <Link to="/articles/coming-soon">(Part 3 coming soon)...</Link>
+            </h4>
+          </em>
         </p>
       </div>
     </div>
