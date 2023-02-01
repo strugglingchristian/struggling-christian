@@ -43,6 +43,16 @@ export const featuredArticlesList = [
     Baptist who heralded the First Advent of the Messiah...`
   },
   {
+    title: "Will the Real Michael Please Stand Up?",
+    isActive: true,
+    url: "/articles/coming-soon",
+    imgWeb: Images.imgMichael,
+    imgMobile: Images.imgMichaelLandscape,
+    imgAlt: "Michael the Archangel",
+    subtitle: `Tracing the roots of the heresy that Jesus and the Archangel Michael are one and the same person`,
+    teaser: `Jehovah's Witnesses and SDAs both claim that Jesus Christ is also the Archangel Michael. Both of these denominations came from the Millerite movement. No wonder they share similar doctrines. But the other Millerites do not hold the view that Jesus and Michael are the same. In fact, this hasn't been taught at all from the Bible. Of the 5 instances that Michael was mentioned...`
+  },
+  {
     title: "Dr. Tim Jennings and the Woke Gospel",
     isActive: true,
     url: "/articles/coming-soon",
@@ -105,6 +115,16 @@ export const allArticlesList = [
     teaser: `Ellen G. White is believed by majority of Seventh-day Adventists
     as a prophet. She is likened to a modern-day Elijah or John the
     Baptist who heralded the First Advent of the Messiah...`
+  },
+  {
+    title: "Will the Real Michael Please Stand Up?",
+    isActive: true,
+    url: "/articles/coming-soon",
+    imgWeb: Images.imgMichael,
+    imgMobile: Images.imgMichaelLandscape,
+    imgAlt: "Michael the Archangel",
+    subtitle: `Tracing the roots of the heresy that Jesus and the Archangel Michael are one and the same person`,
+    teaser: `Jehovah's Witnesses and SDAs both claim that Jesus Christ is also the Archangel Michael. Both of these denominations came from the Millerite movement. No wonder they share similar doctrines. But the other Millerites do not hold the view that Jesus and Michael are the same. In fact, this hasn't been taught at all from the Bible. Of the 5 instances that Michael was mentioned...`
   },
   {
     title: "Dr. Tim Jennings and the Woke Gospel",
