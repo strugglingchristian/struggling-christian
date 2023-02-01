@@ -33,7 +33,7 @@ export const featuredArticlesList = [
   {
     title: "Is Ellen G. White A True Prophet?",
     isActive: true,
-    url: "/articles/egw-true-prophet",
+    url: "/articles/coming-soon",
     imgWeb: Images.imgEGW,
     imgMobile: Images.imgEgwLandscape,
     imgAlt: "Ellen G. White",
@@ -97,7 +97,7 @@ export const allArticlesList = [
   {
     title: "Is Ellen G. White A True Prophet?",
     isActive: true,
-    url: "/articles/egw-true-prophet",
+    url: "/articles/coming-soon",
     imgWeb: Images.imgEGW,
     imgMobile: Images.imgEgwLandscape,
     imgAlt: "Ellen G. White",
