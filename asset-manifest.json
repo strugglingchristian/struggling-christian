@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c3212f21.css",
-    "main.js": "/static/js/main.0cf3719c.js",
+    "main.js": "/static/js/main.7577e612.js",
     "static/js/787.d441f0b4.chunk.js": "/static/js/787.d441f0b4.chunk.js",
     "static/media/abortion-is-healthcare-landscape.png": "/static/media/abortion-is-healthcare-landscape.570f125b20e9482ee3e6.png",
     "static/media/come-and-woke-landscape.png": "/static/media/come-and-woke-landscape.5d201c4b70d4994cec3b.png",
@@ -29,19 +29,21 @@
     "static/media/1843-news-clipping.jpg": "/static/media/1843-news-clipping.b8a1dd02683a6b8723a0.jpg",
     "static/media/1844-millerite-chart-old.jpg": "/static/media/1844-millerite-chart-old.a3e4b85607774b2f3a8a.jpg",
     "static/media/harold-camping.jpeg": "/static/media/harold-camping.40fe294d5f706fd09a0f.jpeg",
+    "static/media/egw-landscape.png": "/static/media/egw-landscape.7ab6b60c9845c8791862.png",
     "static/media/mary-baker-eddy.jpeg": "/static/media/mary-baker-eddy.922c542ad90d860c8862.jpeg",
     "static/media/49x50.png": "/static/media/49x50.7eebe959ba1226a05365.png",
     "static/media/1844-wrong-actually.jpeg": "/static/media/1844-wrong-actually.00c81f70de0a10ef0a48.jpeg",
     "static/media/pooh-in-clouds.jpeg": "/static/media/pooh-in-clouds.8cd2c23eaa06c11086db.jpeg",
     "static/media/mindblown.jpeg": "/static/media/mindblown.a5fb686b9b24fb850423.jpeg",
-    "static/media/egw-landscape.png": "/static/media/egw-landscape.9c09110feeab9805a6f9.png",
+    "static/media/michael.jpg": "/static/media/michael.716d50e55a365ce18f2d.jpg",
+    "static/media/egw.jpg": "/static/media/egw.24479ab3d837a0c2a72d.jpg",
     "index.html": "/index.html",
     "main.c3212f21.css.map": "/static/css/main.c3212f21.css.map",
-    "main.0cf3719c.js.map": "/static/js/main.0cf3719c.js.map",
+    "main.7577e612.js.map": "/static/js/main.7577e612.js.map",
     "787.d441f0b4.chunk.js.map": "/static/js/787.d441f0b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3212f21.css",
-    "static/js/main.0cf3719c.js"
+    "static/js/main.7577e612.js"
   ]
 }
