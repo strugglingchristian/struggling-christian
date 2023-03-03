@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c3212f21.css",
-    "main.js": "/static/js/main.7577e612.js",
-    "static/js/787.d441f0b4.chunk.js": "/static/js/787.d441f0b4.chunk.js",
+    "main.js": "/static/js/main.6ef02fe7.js",
+    "static/js/787.5f5ee9b4.chunk.js": "/static/js/787.5f5ee9b4.chunk.js",
     "static/media/abortion-is-healthcare-landscape.png": "/static/media/abortion-is-healthcare-landscape.570f125b20e9482ee3e6.png",
     "static/media/come-and-woke-landscape.png": "/static/media/come-and-woke-landscape.5d201c4b70d4994cec3b.png",
     "static/media/miller-chart-landscape.png": "/static/media/miller-chart-landscape.e8883553c7701f3e80e5.png",
@@ -20,6 +20,8 @@
     "static/media/42-meaning-of-life.png": "/static/media/42-meaning-of-life.918d3a44ba12a90ba008.png",
     "static/media/face-in-bark.jpeg": "/static/media/face-in-bark.406fd3372728ed73baea.jpeg",
     "static/media/1843-header-landscape.png": "/static/media/1843-header-landscape.a7499dedd5ec444fc14e.png",
+    "static/media/book-mika-ahuvia.jpeg": "/static/media/book-mika-ahuvia.87273cdf3dd2b50d08a8.jpeg",
+    "static/media/fall-of-rebel-angels.jpeg": "/static/media/fall-of-rebel-angels.998436b4bcee2ffcc380.jpeg",
     "static/media/safety-first.png": "/static/media/safety-first.1c972bfc538ce6485c69.png",
     "static/media/joseph-smith.jpg": "/static/media/joseph-smith.c00d2a5e796bb3b9ea07.jpg",
     "static/media/board-calculation.jpeg": "/static/media/board-calculation.e84c42dfb08b46e91d96.jpeg",
@@ -39,11 +41,11 @@
     "static/media/egw.jpg": "/static/media/egw.24479ab3d837a0c2a72d.jpg",
     "index.html": "/index.html",
     "main.c3212f21.css.map": "/static/css/main.c3212f21.css.map",
-    "main.7577e612.js.map": "/static/js/main.7577e612.js.map",
-    "787.d441f0b4.chunk.js.map": "/static/js/787.d441f0b4.chunk.js.map"
+    "main.6ef02fe7.js.map": "/static/js/main.6ef02fe7.js.map",
+    "787.5f5ee9b4.chunk.js.map": "/static/js/787.5f5ee9b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3212f21.css",
-    "static/js/main.7577e612.js"
+    "static/js/main.6ef02fe7.js"
   ]
 }
