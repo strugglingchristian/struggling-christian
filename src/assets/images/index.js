@@ -32,6 +32,8 @@ import imgAbortionIsHealthCareLandscape from "./abortion-is-healthcare-landscape
 import imgSafetyFirst from "./safety-first.png";
 import imgMichael from "./michael.jpg";
 import imgMichaelLandscape from "./michael-landscape.jpg";
+import imgFallOfRebelAngels from "./fall-of-rebel-angels.jpeg";
+import imgMikaAhuvia from "./book-mika-ahuvia.jpeg";
 
 const Images = {
   img1Bc1Ad,
@@ -67,7 +69,9 @@ const Images = {
   imgAbortionIsHealthCareLandscape,
   imgSafetyFirst,
   imgMichael,
-  imgMichaelLandscape
+  imgMichaelLandscape,
+  imgFallOfRebelAngels,
+  imgMikaAhuvia
 };
 
 export default Images;

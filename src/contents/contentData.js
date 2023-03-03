@@ -43,9 +43,9 @@ export const featuredArticlesList = [
     Baptist who heralded the First Advent of the Messiah...`
   },
   {
-    title: "Will the Real Michael Please Stand Up?",
+    title: "Will the Real Michael Please Stand Up? (Part 1)",
     isActive: true,
-    url: "/articles/coming-soon",
+    url: "/articles/michael-stand-up-part-1",
     imgWeb: Images.imgMichael,
     imgMobile: Images.imgMichaelLandscape,
     imgAlt: "Michael the Archangel",
@@ -117,9 +117,9 @@ export const allArticlesList = [
     Baptist who heralded the First Advent of the Messiah...`
   },
   {
-    title: "Will the Real Michael Please Stand Up?",
+    title: "Will the Real Michael Please Stand Up? (Part 1)",
     isActive: true,
-    url: "/articles/coming-soon",
+    url: "/articles/michael-stand-up-part-1",
     imgWeb: Images.imgMichael,
     imgMobile: Images.imgMichaelLandscape,
     imgAlt: "Michael the Archangel",
