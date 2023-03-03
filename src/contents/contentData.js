@@ -50,7 +50,7 @@ export const featuredArticlesList = [
     imgMobile: Images.imgMichaelLandscape,
     imgAlt: "Michael the Archangel",
     subtitle: `Tracing the roots of the heresy that Jesus and the Archangel Michael are one and the same person`,
-    teaser: `Jehovah's Witnesses and SDAs both claim that Jesus Christ is also the Archangel Michael. Both of these denominations came from the Millerite movement. No wonder they share similar doctrines. But the other Millerites do not hold the view that Jesus and Michael are the same. In fact, this hasn't been taught at all from the Bible. Of the 5 instances that Michael was mentioned...`
+    teaser: `Jehovah's Witnesses and Seventh-day Adventists claim that Jesus Christ is also the Archangel Michael. Both of these denominations came from the Millerite movement so it’s no surprise that they believe the same thing...`
   },
   {
     title: "Dr. Tim Jennings and the Woke Gospel",
@@ -124,7 +124,7 @@ export const allArticlesList = [
     imgMobile: Images.imgMichaelLandscape,
     imgAlt: "Michael the Archangel",
     subtitle: `Tracing the roots of the heresy that Jesus and the Archangel Michael are one and the same person`,
-    teaser: `Jehovah's Witnesses and SDAs both claim that Jesus Christ is also the Archangel Michael. Both of these denominations came from the Millerite movement. No wonder they share similar doctrines. But the other Millerites do not hold the view that Jesus and Michael are the same. In fact, this hasn't been taught at all from the Bible. Of the 5 instances that Michael was mentioned...`
+    teaser: `Jehovah's Witnesses and Seventh-day Adventists claim that Jesus Christ is also the Archangel Michael. Both of these denominations came from the Millerite movement so it’s no surprise that they believe the same thing...`
   },
   {
     title: "Dr. Tim Jennings and the Woke Gospel",
