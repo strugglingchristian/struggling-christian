@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c3212f21.css",
-    "main.js": "/static/js/main.6ef02fe7.js",
+    "main.js": "/static/js/main.0819073e.js",
     "static/js/787.5f5ee9b4.chunk.js": "/static/js/787.5f5ee9b4.chunk.js",
     "static/media/abortion-is-healthcare-landscape.png": "/static/media/abortion-is-healthcare-landscape.570f125b20e9482ee3e6.png",
     "static/media/come-and-woke-landscape.png": "/static/media/come-and-woke-landscape.5d201c4b70d4994cec3b.png",
@@ -41,11 +41,11 @@
     "static/media/egw.jpg": "/static/media/egw.24479ab3d837a0c2a72d.jpg",
     "index.html": "/index.html",
     "main.c3212f21.css.map": "/static/css/main.c3212f21.css.map",
-    "main.6ef02fe7.js.map": "/static/js/main.6ef02fe7.js.map",
+    "main.0819073e.js.map": "/static/js/main.0819073e.js.map",
     "787.5f5ee9b4.chunk.js.map": "/static/js/787.5f5ee9b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3212f21.css",
-    "static/js/main.6ef02fe7.js"
+    "static/js/main.0819073e.js"
   ]
 }
