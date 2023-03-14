@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3212f21.css",
-    "main.js": "/static/js/main.0819073e.js",
+    "main.css": "/static/css/main.e95a6a4c.css",
+    "main.js": "/static/js/main.42f402df.js",
     "static/js/787.5f5ee9b4.chunk.js": "/static/js/787.5f5ee9b4.chunk.js",
     "static/media/abortion-is-healthcare-landscape.png": "/static/media/abortion-is-healthcare-landscape.570f125b20e9482ee3e6.png",
     "static/media/come-and-woke-landscape.png": "/static/media/come-and-woke-landscape.5d201c4b70d4994cec3b.png",
@@ -16,6 +16,7 @@
     "static/media/Raleway-Bold.ttf": "/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
     "static/media/Raleway-Italic.ttf": "/static/media/Raleway-Italic.2a3303d3281dbe80bec6.ttf",
     "static/media/abortion-is-healthcare.png": "/static/media/abortion-is-healthcare.a12e75e1de2058796469.png",
+    "static/media/menorah.jpeg": "/static/media/menorah.16f8295a59755906ce6d.jpeg",
     "static/media/come-and-woke.png": "/static/media/come-and-woke.01e423383d5a4e00be66.png",
     "static/media/42-meaning-of-life.png": "/static/media/42-meaning-of-life.918d3a44ba12a90ba008.png",
     "static/media/face-in-bark.jpeg": "/static/media/face-in-bark.406fd3372728ed73baea.jpeg",
@@ -31,6 +32,7 @@
     "static/media/1843-news-clipping.jpg": "/static/media/1843-news-clipping.b8a1dd02683a6b8723a0.jpg",
     "static/media/1844-millerite-chart-old.jpg": "/static/media/1844-millerite-chart-old.a3e4b85607774b2f3a8a.jpg",
     "static/media/harold-camping.jpeg": "/static/media/harold-camping.40fe294d5f706fd09a0f.jpeg",
+    "static/media/the-seven-archangels.jpg": "/static/media/the-seven-archangels.13cba612bf1a17652324.jpg",
     "static/media/egw-landscape.png": "/static/media/egw-landscape.7ab6b60c9845c8791862.png",
     "static/media/mary-baker-eddy.jpeg": "/static/media/mary-baker-eddy.922c542ad90d860c8862.jpeg",
     "static/media/49x50.png": "/static/media/49x50.7eebe959ba1226a05365.png",
@@ -40,12 +42,12 @@
     "static/media/michael.jpg": "/static/media/michael.716d50e55a365ce18f2d.jpg",
     "static/media/egw.jpg": "/static/media/egw.24479ab3d837a0c2a72d.jpg",
     "index.html": "/index.html",
-    "main.c3212f21.css.map": "/static/css/main.c3212f21.css.map",
-    "main.0819073e.js.map": "/static/js/main.0819073e.js.map",
+    "main.e95a6a4c.css.map": "/static/css/main.e95a6a4c.css.map",
+    "main.42f402df.js.map": "/static/js/main.42f402df.js.map",
     "787.5f5ee9b4.chunk.js.map": "/static/js/787.5f5ee9b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3212f21.css",
-    "static/js/main.0819073e.js"
+    "static/css/main.e95a6a4c.css",
+    "static/js/main.42f402df.js"
   ]
 }
