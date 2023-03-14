@@ -2,55 +2,54 @@ import { Link } from "react-router-dom";
 import Images from "../../assets/images";
 import "../../styles/article.css";
 
-function ArticleMichaelPart2() {
+function ArticleMichaelPart3() {
   return (
     <div id="articles">
       <div className="body-content">
         <h1 className="title">
-          Will The Real Michael Please Stand Up? (Part 2)
+          Will The Real Michael Please Stand Up? (Part 3)
         </h1>
-
         <h4>
           <strong>
-            <u>Michael In Judaism</u>
+            <u>Michael In Catholicism</u>
           </strong>
         </h4>
         <p>
-          Michael is called the archangel in Jude 1:9. The only other reference
-          to the archangel is in 1 Thess 4:16, referring to the voice of the
-          archangel. In Judaism<sup>1</sup> and Eastern Orthodox<sup>2</sup>{" "}
-          tradition, there are seven archangels named. Both Judaism and Eastern
-          Orthodox share the following 4: Michael, Gabriel, Uriel and Raphael,
-          while the name of the 3 remaining archangels differ in both
-          traditions. In the Roman Catholic tradition<sup>3</sup>, there are
-          also 7 archangels but only 3 are named: Michael, Gabriel and Raphael,
-          while in the Protestant tradition only Michael is regarded as the
-          archangel. But the Anglican and Methodist churches recognize four
-          archangels, namely: Michael, Gabriel, Raphael and Uriel.
+          Michael is highly revered in Catholicism. He is called St. Michael the
+          Archangel and is considered as the patron saint of warriors and
+          protectors (e.g., soldiers, police, firefighters etc). He is also the
+          protector of the nation of Israel and of the Catholic church. He is
+          one of the 7 archangels and is the commander of the armies of heaven.
+          This tradition along with many of the traditions concerning Michael
+          were adopted from Judaism, particularly from the 2nd Temple
+          Literature. The 7 archangels are believed to be the 7 spirits of God
+          and is represented by the menorah mentioned in Revelation 4:5
         </p>
+        <blockquote>
+          <span align="center">
+            <em>
+              “From the throne came flashes of lightning, rumblings and peals of
+              thunder. In front of the throne, seven lamps were blazing. These
+              are the seven spirits of God.” Revelation 4:5
+            </em>
+          </span>
+        </blockquote>
         <p align="center">
           <img
-            src={Images.img7archangels}
-            alt="7 Archangels"
+            src={Images.imgMenorah}
+            alt="7 Spirits of God"
             className="responsive"
           />
           <br />
-          <strong>7 Archangels of Judaism</strong>
+          <strong>The Seven Spirits of God</strong>
         </p>
         <p>
-          But wait a minute, if there are only 5 occurrences of Michael the
-          Archangel in the Bible (Protestant canon), where did these other names
-          of the archangels come from? And if the term archangel wasn’t even
-          mentioned in the OT, how come Paul mentioned it in 1 Thess. 4:16 as if
-          everybody knows what an archangel is? Shouldn’t he have given an
-          introduction or explanation first of what an archangel is? And also in
-          Jude 1:9, Jude mentioned the event matter-of-factly without any
-          explanation. Could it be that the intended readers of Paul and Jude’s
-          letters were privy to information that we modern readers have no idea
-          about? And could it be that the concept of the archangel and the story
-          of Michael contending with the devil for the body of Moses was already
-          common knowledge during their time? Perhaps that could be the reason
-          why Paul and Jude never offered any background information about it.
+          When Constantine converted to Christianity, he held Michael in high
+          regard because of his warrior status. According to tradition,
+          Constantine the Great ordered that a church dedicated to Michael be
+          built over an ancient pagan temple and this was church was named the
+          Michaelion. A statue of Michael slaying the dragon is first depicted
+          at the Michaelion.
         </p>
         <p>
           So let’s begin by defining what an archangel <em>is.</em>
@@ -462,9 +461,7 @@ function ArticleMichaelPart2() {
         </p>
         <p>
           <em>
-            <Link to="/articles/michael-stand-up-part-3">
-              To be continued on part 3...
-            </Link>
+            <Link to="/articles/coming-soon">To be continued on part 3...</Link>
           </em>
         </p>
       </div>
@@ -472,4 +469,4 @@ function ArticleMichaelPart2() {
   );
 }
 
-export default ArticleMichaelPart2;
+export default ArticleMichaelPart3;

@@ -34,6 +34,8 @@ import imgMichael from "./michael.jpg";
 import imgMichaelLandscape from "./michael-landscape.jpg";
 import imgFallOfRebelAngels from "./fall-of-rebel-angels.jpeg";
 import imgMikaAhuvia from "./book-mika-ahuvia.jpeg";
+import img7archangels from "./the-seven-archangels.jpg";
+import imgMenorah from "./menorah.jpeg";
 
 const Images = {
   img1Bc1Ad,
@@ -71,7 +73,9 @@ const Images = {
   imgMichael,
   imgMichaelLandscape,
   imgFallOfRebelAngels,
-  imgMikaAhuvia
+  imgMikaAhuvia,
+  img7archangels,
+  imgMenorah
 };
 
 export default Images;
