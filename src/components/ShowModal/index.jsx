@@ -8,16 +8,20 @@ function ShowModal({
   show = false,
   handleClose = () => {}
 }) {
+  const footer =
+    url === "" && content !== "" ? (
+      content
+    ) : (
+      <a href={url} target="_blank" rel="noreferrer">
+        {content}
+      </a>
+    );
   return (
     <Modal show={show} onHide={handleClose}>
       <Modal.Header closeButton>
         <Modal.Title>Footnote</Modal.Title>
       </Modal.Header>
-      <Modal.Body>
-        <a href={url} target="_blank" rel="noreferrer">
-          {content}
-        </a>
-      </Modal.Body>
+      <Modal.Body>{footer}</Modal.Body>
       <Modal.Footer>
         <Button variant="secondary" onClick={handleClose}>
           Close

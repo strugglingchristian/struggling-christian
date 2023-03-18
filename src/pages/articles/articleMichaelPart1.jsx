@@ -10,11 +10,20 @@ function ArticleMichaelPart1() {
   const [url, setUrl] = useState("");
 
   const handleClose = () => setShow(false);
-  const toggleModal = (footnote, url) => () => {
-    setShow(!show);
-    setContent(footnote);
-    setUrl(url);
-  };
+  const toggleModal =
+    (url = "", footnote = "") =>
+    () => {
+      setShow(!show);
+      setUrl(url);
+      if (footnote === "" && url !== "") {
+        setContent(url);
+      } else if (url === "" && footnote !== "") {
+        setContent(footnote);
+      } else if (url !== "" && footnote !== "") {
+        setUrl(url);
+        setContent(footnote);
+      }
+    };
 
   return (
     <>
@@ -53,10 +62,7 @@ function ArticleMichaelPart1() {
             <sup>
               <button
                 type="button"
-                onClick={toggleModal(
-                  "https://ellenwhite.org/people/18141",
-                  "https://ellenwhite.org/people/18141"
-                )}
+                onClick={toggleModal("https://ellenwhite.org/people/18141")}
               >
                 1
               </button>
@@ -105,17 +111,57 @@ function ArticleMichaelPart1() {
             . And while the official position of the Seventh-day Adventist
             church today is Trinitarian, (there are some groups within SDA who
             are non-trinitarians) SDAs too started off as sharing the Arian
-            <sup>4</sup> belief that Jesus Christ is not co-equal with God. Some
-            of the SDA pioneers who held this belief include
-            <sup>5</sup>: James White, Uriah Smith, Joseph Bates, R.F. Cotrell
-            and many more. But SDA belief has some differences about the Arian
-            teaching, hence it was called Semi-Arian<sup>6</sup>. Semi-Arians
-            believe that Jesus is not the Almighty God, but He is a divine being
-            just not equal with the Father and He has a beginning.
+            <sup>
+              <button
+                type="button"
+                onClick={toggleModal(
+                  " https://www.britannica.com/topic/Arianism"
+                )}
+              >
+                4
+              </button>
+            </sup>{" "}
+            belief that Jesus Christ is not co-equal with God. Some of the SDA
+            pioneers who held this belief include
+            <sup>
+              <button
+                type="button"
+                onClick={toggleModal(
+                  "https://www.trinitytruth.org/adventistpioneersandthetrinity.html"
+                )}
+              >
+                5
+              </button>
+            </sup>
+            : James White, Uriah Smith, Joseph Bates, R.F. Cotrell and many
+            more. But SDA belief has some differences about the Arian teaching,
+            hence it was called Semi-Arian
+            <sup>
+              <button
+                type="button"
+                onClick={toggleModal(
+                  "https://www.britannica.com/topic/semi-Arianism"
+                )}
+              >
+                6
+              </button>
+            </sup>
+            . Semi-Arians believe that Jesus is not the Almighty God, but He is
+            a divine being just not equal with the Father and He has a
+            beginning.
           </p>
           <p>
             Eventually, the SDA church adopted the Trinitarian belief
-            <sup>7</sup>{" "}
+            <sup>
+              <button
+                type="button"
+                onClick={toggleModal(
+                  "http://www.sdanet.org/atissue/trinity/TrinityWhidden.htm"
+                )}
+              >
+                7
+              </button>
+            </sup>{" "}
             <em>
               (with some notable differences from the orthodox trinitarian
               position, but that is a topic for another time)
@@ -146,25 +192,55 @@ function ArticleMichaelPart1() {
           <p>
             The name Michael is a very old Hebrew name. It comes from the Hebrew
             מִיכָאֵֽל (mī kāʼēl) meaning “Who is like God?” This name according
-            to the Ancient Hebrew Research Center<sup>8</sup> is a shortened
-            form of the question that is asked in Psalm 113:5{" "}
+            to the Ancient Hebrew Research Center
+            <sup>
+              <button
+                type="button"
+                onClick={toggleModal(
+                  "https://www.ancient-hebrew.org/names/Michael.htm"
+                )}
+              >
+                8
+              </button>
+            </sup>{" "}
+            is a shortened form of the question that is asked in Psalm 113:5{" "}
             <em>
               “Who is like the LORD our God, the One who sits enthroned on
               high.”
             </em>{" "}
             This is a rhetorical question because there is no one like God{" "}
             <em>(Isaiah 46:9)</em>. Michael is one of the many theophoric
-            <sup>9</sup> names found in the Bible like Gabriel, Daniel, Joel,
-            Raphael, Ezekiel etc.
+            <sup>
+              <button
+                type="button"
+                onClick={toggleModal(
+                  "https://en.wikipedia.org/wiki/Theophoric_name"
+                )}
+              >
+                9
+              </button>
+            </sup>{" "}
+            names found in the Bible like Gabriel, Daniel, Joel, Raphael,
+            Ezekiel etc.
           </p>
           <p>
             The first mention of the name Michael is found in Numbers 13:13 and
             it mentions Sethur, the son of Michael. Sethur is one of the spies
             sent by Moses to the land of Canaan. There are 16 occurrences
-            <sup>10</sup> of the name Michael in the Bible, 11 of which refers
-            to humans and only 5 refer to the angel. Let’s take a look at these
-            five verses and see if it says unequivocally that Jesus and Michael
-            are one and the same person.
+            <sup>
+              <button
+                type="button"
+                onClick={toggleModal(
+                  "https://biblehub.com/topical/m/michael.htm"
+                )}
+              >
+                10
+              </button>
+            </sup>{" "}
+            of the name Michael in the Bible, 11 of which refers to humans and
+            only 5 refer to the angel. Let’s take a look at these five verses
+            and see if it says unequivocally that Jesus and Michael are one and
+            the same person.
           </p>
           <p>
             Before we proceed, I strongly suggest that you read first the whole
