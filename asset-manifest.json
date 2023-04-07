@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e95a6a4c.css",
-    "main.js": "/static/js/main.580edd6f.js",
+    "main.js": "/static/js/main.8c078d0e.js",
     "static/js/787.5f5ee9b4.chunk.js": "/static/js/787.5f5ee9b4.chunk.js",
     "static/media/abortion-is-healthcare-landscape.png": "/static/media/abortion-is-healthcare-landscape.570f125b20e9482ee3e6.png",
     "static/media/come-and-woke-landscape.png": "/static/media/come-and-woke-landscape.5d201c4b70d4994cec3b.png",
@@ -26,10 +26,15 @@
     "static/media/safety-first.png": "/static/media/safety-first.1c972bfc538ce6485c69.png",
     "static/media/joseph-smith.jpg": "/static/media/joseph-smith.c00d2a5e796bb3b9ea07.jpg",
     "static/media/board-calculation.jpeg": "/static/media/board-calculation.e84c42dfb08b46e91d96.jpeg",
+    "static/media/talmud.jpg": "/static/media/talmud.beacabf3eddf14f38daf.jpg",
     "static/media/under-construction.jpeg": "/static/media/under-construction.4495041c8beea6d90798.jpeg",
     "static/media/family-radio-group.jpeg": "/static/media/family-radio-group.fa021ab0a0ea406a6e9d.jpeg",
     "static/media/william-miller.jpeg": "/static/media/william-miller.82c932d015cea8c652c0.jpeg",
+    "static/media/cult-of-michael.webp": "/static/media/cult-of-michael.b6cc3a760f3fc242bc86.webp",
     "static/media/1843-news-clipping.jpg": "/static/media/1843-news-clipping.b8a1dd02683a6b8723a0.jpg",
+    "static/media/septuagint-manuscript.jpg": "/static/media/septuagint-manuscript.3ce7f783bb3d0969bcf8.jpg",
+    "static/media/midrash-rabbah.jpeg": "/static/media/midrash-rabbah.77ea053b1db9f5aab12f.jpeg",
+    "static/media/qumran-caves.jpeg": "/static/media/qumran-caves.11ba0bc62e67fe1abb37.jpeg",
     "static/media/1844-millerite-chart-old.jpg": "/static/media/1844-millerite-chart-old.a3e4b85607774b2f3a8a.jpg",
     "static/media/harold-camping.jpeg": "/static/media/harold-camping.40fe294d5f706fd09a0f.jpeg",
     "static/media/the-seven-archangels.jpg": "/static/media/the-seven-archangels.13cba612bf1a17652324.jpg",
@@ -43,11 +48,11 @@
     "static/media/egw.jpg": "/static/media/egw.24479ab3d837a0c2a72d.jpg",
     "index.html": "/index.html",
     "main.e95a6a4c.css.map": "/static/css/main.e95a6a4c.css.map",
-    "main.580edd6f.js.map": "/static/js/main.580edd6f.js.map",
+    "main.8c078d0e.js.map": "/static/js/main.8c078d0e.js.map",
     "787.5f5ee9b4.chunk.js.map": "/static/js/787.5f5ee9b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e95a6a4c.css",
-    "static/js/main.580edd6f.js"
+    "static/js/main.8c078d0e.js"
   ]
 }
