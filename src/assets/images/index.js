@@ -36,6 +36,11 @@ import imgFallOfRebelAngels from "./fall-of-rebel-angels.jpeg";
 import imgMikaAhuvia from "./book-mika-ahuvia.jpeg";
 import img7archangels from "./the-seven-archangels.jpg";
 import imgMenorah from "./menorah.jpeg";
+import imgCultOfMichael from "./cult-of-michael.webp";
+import imgSeptuagintManuscript from "./septuagint-manuscript.jpg";
+import imgQumranCaves from "./qumran-caves.jpeg";
+import imgTalmud from "./talmud.jpg";
+import imgMidrash from "./midrash-rabbah.jpeg";
 
 const Images = {
   img1Bc1Ad,
@@ -75,7 +80,12 @@ const Images = {
   imgFallOfRebelAngels,
   imgMikaAhuvia,
   img7archangels,
-  imgMenorah
+  imgMenorah,
+  imgCultOfMichael,
+  imgSeptuagintManuscript,
+  imgQumranCaves,
+  imgTalmud,
+  imgMidrash
 };
 
 export default Images;

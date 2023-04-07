@@ -167,6 +167,15 @@ function ArticleMichaelPart2() {
             Testamentum ex versione Septuaginta Interpretum” which means “The
             Old Testament from the version of the 70 Translators.”
           </p>
+          <p align="center">
+            <img
+              src={Images.imgSeptuagintManuscript}
+              alt="Septuagiant Manuscript"
+              className="responsive"
+            />
+            <br />
+            <strong>Septuagint Manuscript</strong>
+          </p>
           <p>
             The Septuagint contains all the 39 books of the OT Protestant Bible
             plus 7 additional books. According to tradition, in the mid-3rd
@@ -235,6 +244,15 @@ function ArticleMichaelPart2() {
               on the subject of Michael)
             </em>
             .
+          </p>
+          <p align="center">
+            <img
+              src={Images.imgQumranCaves}
+              alt="Qumran Caves"
+              className="responsive"
+            />
+            <br />
+            <strong>Qumran Caves, Location of Dead Sea Scrolls</strong>
           </p>
           <p>
             Since we’ve briefly discussed the Scriptures used during Jesus’
@@ -600,6 +618,15 @@ function ArticleMichaelPart2() {
           <h5>
             <strong>The Talmud</strong>
           </h5>
+          <p align="center">
+            <img
+              src={Images.imgTalmud}
+              alt="The Talmud"
+              className="responsive"
+            />
+            <br />
+            <strong>The Talmud</strong>
+          </p>
           <p>
             “The Talmud is a collection of writings that covers the full gamut
             of Jewish law and tradition, compiled and edited between the third
@@ -636,6 +663,15 @@ function ArticleMichaelPart2() {
           <h5>
             <strong>The Midrash</strong>
           </h5>
+          <p align="center">
+            <img
+              src={Images.imgMidrash}
+              alt="The Midrash"
+              className="responsive"
+            />
+            <br />
+            <strong>The Midrash</strong>
+          </p>
           <p>
             The Midrash “is an interpretive act, seeking the answers to
             religious questions (both practical and theological) by plumbing the
@@ -689,6 +725,15 @@ function ArticleMichaelPart2() {
           <h5>
             <strong>Angel Worship and the Cult of Michael</strong>
           </h5>
+          <p align="center">
+            <img
+              src={Images.imgCultOfMichael}
+              alt="Cult of Michael"
+              className="responsive"
+            />
+            <br />
+            <strong>Statue of Michael the Archangel</strong>
+          </p>
           <p>
             Since Michael is an exalted figure in Judaism, Some groups within
             Judaism and even in Christianity{" "}
