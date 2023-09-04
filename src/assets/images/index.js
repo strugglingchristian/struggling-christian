@@ -41,6 +41,7 @@ import imgSeptuagintManuscript from "./septuagint-manuscript.jpg";
 import imgQumranCaves from "./qumran-caves.jpeg";
 import imgTalmud from "./talmud.jpg";
 import imgMidrash from "./midrash-rabbah.jpeg";
+import imgBornThisWay from "./born-this-way.png";
 
 const Images = {
   img1Bc1Ad,
@@ -85,7 +86,8 @@ const Images = {
   imgSeptuagintManuscript,
   imgQumranCaves,
   imgTalmud,
-  imgMidrash
+  imgMidrash,
+  imgBornThisWay
 };
 
 export default Images;

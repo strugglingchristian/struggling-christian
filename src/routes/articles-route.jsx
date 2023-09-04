@@ -6,6 +6,7 @@ import ArticleMichaelPart1 from "../pages/articles/articleMichaelPart1";
 import ArticleMichaelPart2 from "../pages/articles/articleMichaelPart2";
 import ArticleMichaelPart3 from "../pages/articles/articleMichaelPart3";
 import ArticleEGWTrueProphet from "../pages/articles/articleEGWTrueProphet";
+import ArticleBornThisWayPart1 from "../pages/articles/articleBornThisWayPart1";
 import ComingSoon from "../pages/coming-soon";
 import Page404 from "../pages/404";
 
@@ -26,6 +27,10 @@ function ArticlesRoute() {
       <Route path="michael-stand-up-part-2" element={<ArticleMichaelPart2 />} />
       <Route path="michael-stand-up-part-3" element={<ArticleMichaelPart3 />} />
       <Route path="egw-true-prophet" element={<ArticleEGWTrueProphet />} />
+      <Route
+        path="born-this-way-part-1"
+        element={<ArticleBornThisWayPart1 />}
+      />
       <Route path="coming-soon" element={<ComingSoon />} />
       <Route path="*" element={<Page404 />} />
     </Routes>

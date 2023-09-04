@@ -53,14 +53,14 @@ export const featuredArticlesList = [
     teaser: `Jehovah's Witnesses and Seventh-day Adventists claim that Jesus Christ is also the Archangel Michael. Both of these denominations came from the Millerite movement so it’s no surprise that they believe the same thing...`
   },
   {
-    title: "Dr. Tim Jennings and the Woke Gospel",
+    title: "Born This Way? An Unnatural View of Romans 1 (Part 1)",
     isActive: true,
-    url: "/articles/coming-soon",
+    url: "/articles/born-this-way-part-1",
     imgWeb: Images.imgComeAndWoke,
     imgMobile: Images.imgComeAndWokeLandscape,
     imgAlt: "Dr. Tim Jennings",
-    subtitle: `Examinining and understanding the "Woke Gospel" from Come and Reason Ministries`,
-    teaser: `Dr. Tim Jennings is preaching a gospel that is full of love, compassion and tolerance. What could be wrong with love, right? After all, as the saying goes, "Love is all we need." But...`
+    subtitle: `Examinining and understanding the unnatural view of Romans by Dr. Tim Jennings M.D.`,
+    teaser: `It is true that the LGBTQIA++ community has suffered discrimination for the past how many years. Unfortunately, even from traditional Christian communities. Instead of receiving love and understanding from their families and from their church...`
   },
   {
     title: "SDA and Abortion",
@@ -127,14 +127,14 @@ export const allArticlesList = [
     teaser: `Jehovah's Witnesses and Seventh-day Adventists claim that Jesus Christ is also the Archangel Michael. Both of these denominations came from the Millerite movement so it’s no surprise that they believe the same thing...`
   },
   {
-    title: "Dr. Tim Jennings and the Woke Gospel",
+    title: "Born This Way? An Unnatural View of Romans 1 (Part 1)",
     isActive: true,
-    url: "/articles/coming-soon",
+    url: "/articles/born-this-way-part-1",
     imgWeb: Images.imgComeAndWoke,
     imgMobile: Images.imgComeAndWokeLandscape,
     imgAlt: "Dr. Tim Jennings",
-    subtitle: `Examinining and understanding the "Woke Gospel" from Come and Reason Ministries`,
-    teaser: `Dr. Tim Jennings is preaching a gospel that is full of love, compassion and tolerance. What could be wrong with love, right? After all, as the saying goes, "Love is all we need." But...`
+    subtitle: `Examinining and understanding the unnatural view of Romans by Dr. Tim Jennings M.D.`,
+    teaser: `It is true that the LGBTQIA++ community has suffered discrimination for the past how many years. Unfortunately, even from traditional Christian communities. Instead of receiving love and understanding from their families and from their church...`
   },
   {
     title: "SDA and Abortion",
