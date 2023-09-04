@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e95a6a4c.css",
-    "main.js": "/static/js/main.8c078d0e.js",
+    "main.js": "/static/js/main.dd8ce7b6.js",
     "static/js/787.5f5ee9b4.chunk.js": "/static/js/787.5f5ee9b4.chunk.js",
     "static/media/abortion-is-healthcare-landscape.png": "/static/media/abortion-is-healthcare-landscape.570f125b20e9482ee3e6.png",
     "static/media/come-and-woke-landscape.png": "/static/media/come-and-woke-landscape.5d201c4b70d4994cec3b.png",
@@ -31,6 +31,7 @@
     "static/media/family-radio-group.jpeg": "/static/media/family-radio-group.fa021ab0a0ea406a6e9d.jpeg",
     "static/media/william-miller.jpeg": "/static/media/william-miller.82c932d015cea8c652c0.jpeg",
     "static/media/cult-of-michael.webp": "/static/media/cult-of-michael.b6cc3a760f3fc242bc86.webp",
+    "static/media/born-this-way.png": "/static/media/born-this-way.dee93be9725ba42c341e.png",
     "static/media/1843-news-clipping.jpg": "/static/media/1843-news-clipping.b8a1dd02683a6b8723a0.jpg",
     "static/media/septuagint-manuscript.jpg": "/static/media/septuagint-manuscript.3ce7f783bb3d0969bcf8.jpg",
     "static/media/midrash-rabbah.jpeg": "/static/media/midrash-rabbah.77ea053b1db9f5aab12f.jpeg",
@@ -48,11 +49,11 @@
     "static/media/egw.jpg": "/static/media/egw.24479ab3d837a0c2a72d.jpg",
     "index.html": "/index.html",
     "main.e95a6a4c.css.map": "/static/css/main.e95a6a4c.css.map",
-    "main.8c078d0e.js.map": "/static/js/main.8c078d0e.js.map",
+    "main.dd8ce7b6.js.map": "/static/js/main.dd8ce7b6.js.map",
     "787.5f5ee9b4.chunk.js.map": "/static/js/787.5f5ee9b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e95a6a4c.css",
-    "static/js/main.8c078d0e.js"
+    "static/js/main.dd8ce7b6.js"
   ]
 }
